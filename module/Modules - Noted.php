@@ -6,8 +6,8 @@
  * @Last Modified time: 2024-05-15 17:05:16
  */
 
- //! Dasar-dasar Manajemen Proyek
-//@ Module 1
+//! Dasar-dasar Manajemen Proyek
+//@ Module 1 (Memulai karir di bidang manajemen proyek)
 //~ Memahami Dasar dasar pryoek
 //? proses perencanaan, pengorganisasian, dan pengendalian sumber daya untuk mencapai tujuan proyek tertentu dalam batasan waktu, anggaran, dan kualitas yang telah ditentukan.
 //? projek manager akan banyak digunakan, di beberapa sektor industri; construction manager proyek, it proyek manager
@@ -28,7 +28,7 @@
 //? Analitis, Asertif/Tegas, Perhatian terhadap detail, Manajemen risiko, Pengembangan solusi
 
 
-//@ Module 2
+//@ Module 2 (Menjadi manajer proyek yang efektif)
 //~ Mengekplore bagaimana manajer proyek memberikan nilai tambahan
 /// Nilai menajer proyek
 //? prioritas: Manajer proyek membantu anggota tim mengidentifikasi dan memecah tugas-tugas besar menjadi langkah-langkah yang lebih kecil
@@ -86,8 +86,9 @@
 //? Mempengaruhi tanpa otoritas: Mempengaruhi tanpa otoritas adalah kemampuan untuk membimbing orang lain untuk menyelesaikan pekerjaan mereka tanpa bertindak sebagai manajer langsung mereka. Ini membutuhkan keterampilan interpersonal yang kuat, seperti komunikasi, negosiasi, mediasi konflik, dan pemahaman motivasi.
 
 
-//@ Module 3
-//~ Menjelajahi fase-fase siklus hidup proyek
+//@ Module 3 (Siklus hidup dan metodologi menejemen proyek)
+//~ Memahami siklus hidup proyek
+/// Menjelajahi fase-fase siklus hidup proyek
 //# Project life cycle; 
 //? meginisialisasi (menentukan tujuan proyek, identifikasi budget/timeline dan sumber daya)
 //? perencanaan (budget, resource, identifikasi tugas2)
@@ -128,16 +129,16 @@
 //? Dokumentasikan hal-hal yang Anda dan tim telah pelajari selama pelaksanaan proyek.
 //? Refleksikan cara-cara untuk melakukan tugasdengan lebih baik di masa mendatang
 //~ Membandingkan beragam metodologi dan pendekatan manajemen proyek
-//# Pengantar metodologi manajemen proyek
+/// Pengantar metodologi manajemen proyek
 //? metodologi manajemen proyek; serangkaian prinsip dan proses yang menjadi panduan untuk mengelola sebuah proyek melalui siklus hidupnya. Metodenya bisa bersifat linier (satu tugas diselesaikan sebelum tugas berikutnya dimulai) atau iteratif (beberapa tugas dikerjakan di waktu yang sama).   
 //? Metodologi linier; fase atau tugas sebelumnya harus diselesaikan sebelum yang berikutnya dapat dimulai
 //? Metodologi iteratif yang lebih fleksibel di mana beberapa fase dalam tugas akan tumpang tindih atau terjadi pada saat yang sama dengan tugas lain sedang dikerjakan (memproduksi acara baru)
 //? Google mengambil pendekatan hibrida untuk manajemen proyek. mencampur dan mencocokkan dari metode yang berbeda tergantung pada jenis proyek.
-//# Garis besar Waterfall dan Agile
+/// Garis besar Waterfall dan Agile
 //? Waterfall; Fase-fase diselesaikan satu per satu berurutan, wwaktu sudah ditentukan,
 //? Agile; fase fase yang lebih fleksibel dan iteratif(scrum master), fokus pada sprint/feature
 //? Scrum; sebuah kerangka kerja Agile yang berfokus pada pengembangan, penyampaian, serta mempertahankan proyek dan produk yang kompleks melalui kolaborasi, akuntabilitas dan sebuah proses iteratif.
-//# Perbandingan antara Waterfall dan Agile
+/// Perbandingan antara Waterfall dan Agile
 //! Waterfall
 //? Pendekatan: Tradisional, linier, dan terstruktur.
 //? Fase: Inisiasi, perencanaan, pelaksanaan, dan penutupan.
@@ -158,22 +159,22 @@
 //? Kualitas: Ditingkatkan secara berkelanjutan melalui umpan balik.
 //? Komunikasi: Berfokus pada pelanggan dan tim.
 //? Pemangku kepentingan: Terlibat secara berkala.
-//# Pengantar Lean dan Six Sigma
+/// Pengantar Lean dan Six Sigma
 //? Lean dan Six Sigma adalah dua metodologi yang dapat digunakan untuk meningkatkan proses.
 //? Lean berfokus pada penghapusan pemborosan, sedangkan Six Sigma berfokus pada pengurangan variasi
 //? Define, Measure, Analyze, Improve, dan Control (DMAIC); strategi untuk peningkatan proses, yang berarti Anda mencoba mencari tahu di mana masalah dalam proses saat ini dan memperbaikinya sehingga semuanya berjalan lebih lancar
-//# Metodologi Lean dan Six Sigma
-//! Lean (Lean Manufacturing)
+/// Metodologi Lean dan Six Sigma
+//# Lean (Lean Manufacturing)
 //? mengidentifikasi delapan tipe pemborosan dalam suatu proses produksi: kecacatan, proses yang berlebihan, kelebihan produksi, waktu tunggu, inventaris, transportasi, pergerakan, dan bakat yang tidak dimanfaatkan.
-//! Metode 5S meliputi
+//# Metode 5S meliputi
 //? Sort (menggolongkan): Meniadakan semua item yang tidak diperlukan untuk operasional produksi saat ini dan menyisakan hanya hal-hal yang penting saja. 
 //? Set in order (mengatur sesuai urutan): Mengatur item-item yang diperlukan agar mudah digunakan. Memberi label pada item-item tersebut agar setiap orang dapat dengan mudah menemukan atau membuangnya jika tidak diperlukan. 
 //? Shine (memoles): Meletakkan segala sesuatu pada tempatnya. Membersihkan tempat kerja Anda setiap hari.
 //? Standardize (membuat standarisasi): Melakukan prosesnya dengan cara yang sama setiap saat. 
 //? Sustain (mempertahankan): Membiasakan mempertahankan prosedur yang benar dan menanamkan disiplin ini pada tim Anda.
-//! Six Sigma
+//# Six Sigma
 //? untuk mengurangi variasi dengan memastikan dilakukannya proses-proses yang berkualitas setiap saat (proses harus memiliki kualitas 99,9996%.)
-//! Tujuh prinsip utama Six Sigma
+//# Tujuh prinsip utama Six Sigma
 //? Selalu berfokus pada pelanggan.
 //? Mengidentifikasi dan memahami bagaimana pekerjaan dilakukan. Memahami bagaimana pekerjaan benar-benar dilakukan.
 //? Membuat alur proses Anda berjalan lancar.
@@ -181,3 +182,49 @@
 //? Menghentikan kecacatan dengan meniadakan variasi.
 //? Melibatkan dan berkolaborasi dengan tim Anda.
 //? Melakukan pendekatan pada aktivitas perbaikan secara sistematis.
+
+//@ Module 4 (Struktur dan budaya organisasi)
+//~ Memahami Struktur Organisasi
+/// Peran manajer proyek dalam struktur organisasi yang berbeda
+//# Struktur Organisasi Klasik
+//? manajer proyek bertanggung jawab untuk merencanakan, mengelola, dan mengeksekusi proyek dalam satu departemen. Mereka melapor kepada manajer departemen,
+//# Struktur Organisasi Matriks
+//? manajer proyek bertanggung jawab untuk merencanakan, mengelola, dan mengeksekusi proyek yang melibatkan anggota dari berbagai departemen
+/// Peran Project Management Office (PMO)
+//? kelompok dalam organisasi yang mendefinisikan, menetapkan, serta membantu memelihara standar dan proses manajemen proyek di seluruh organisasi
+//? tujuan utama PMO meliputi: perencanaan strategis dan tata kelola, menerapkan praktik terbaik manajemen proyek, membangun budaya proyek secara umum, manajemen sumber daya, serta membuat dokumentasi proyek, arsip, dan alat
+//? tim manajer proyek yang mengoordinasikan semua bagian proyek yang berbeda, termasuk orang-orang yang mengerjakan produk, insinyur, dan banyak fungsi bisnis.
+//~ Memahami Dampak Budaya Organisasi
+//? hal penting karena memiliki dampak langsung pada Anda sebagai manajer proyek, dan mempelajari cara menavigasi budaya organisasi memberi Anda keuntungan besar saat menjalankan proyek
+//? memahami budaya perusahaan dapat membantu Anda memutuskan apakah posisi tersebut cocok untuk Anda dan prioritas Anda
+//~ Memahami change management (manajemen perubahan)
+//? Manajemen perubahan; proses membantu orang untuk beradaptasi dengan perubahan baru
+//# Konsep Inti:
+//? Kepemilikan dan Urgensi: Ciptakan rasa kepemilikan dan urgensi di sekitar proyek untuk meningkatkan minat, motivasi, dan keterlibatan dengan hasil proyek.
+//? Komposisi Tim: Pilih orang-orang dengan pengetahuan dan keterampilan yang saling melengkapi untuk tim Anda.
+//? Komunikasi yang Efektif: Berkomunikasi secara transparan dan terbuka dengan tim dan organisasi Anda
+//# Strategi Utama:
+//? Komunikasikan Visi dan Pendekatan: Bagikan visi dan pendekatan Anda untuk proyek dengan jelas, dan tunjukkan bagaimana setiap orang dapat bekerja sama sebagai sebuah tim untuk mewujudkannya.
+//? Berikan Informasi yang Terkini: Pastikan tim dan organisasi Anda selalu mendapatkan informasi terbaru tentang kemajuan proyek.
+//? Bantu Orang Beradaptasi: Berikan dukungan kepada orang-orang saat mereka menyesuaikan diri dengan perubahan, dan akui upaya mereka.
+//? Ingatkan Nilai Jangka Panjang: Ingatkan semua orang tentang nilai jangka panjang yang diberikan proyek
+/// Peran manajer proyek dalam manajemen perubahan
+//# Tugas khusus manajer proyek dalam manajemen perubahan
+//? Merencanakan perubahan: Ini termasuk mengidentifikasi kebutuhan akan perubahan, mengembangkan rencana perubahan, dan mengidentifikasi sumber daya yang diperlukan.
+//? Mengkomunikasikan perubahan: Ini termasuk mengkomunikasikan perubahan kepada pemangku kepentingan, menjawab pertanyaan, dan mengatasi masalah.
+//? Melatih perubahan: Ini termasuk melatih karyawan tentang cara baru dalam melakukan sesuatu dan memberikan dukungan yang berkelanjutan.
+//? Memantau perubahan: Ini termasuk memantau kemajuan perubahan dan membuat penyesuaian yang diperlukan
+/// Tata kelola perusahaan dan proyek
+//? Tata kelola tata kelola adalah memahami siapa yang bertanggung jawab
+//? Tata kelola perusahaan berfokus pada keseluruhan organisasi, sementara tata kelola proyek berfokus pada proyek tertentu
+//~ Opsional - Mengejar karier baru Anda
+/// Bagaimana mengungkap peluang kerja
+//? Pahami peranan kerja yang dituju
+//# Analisis daftar pekerjaan
+//? mapping skill apa yang paling muncul di berbagai lowongan perkerjaan dengan posisi yang sama
+//? buatkan prioritas skill mana sja yang harus di sorot waktu wawancara dan mana yang tidak
+//# Buatlah inventaris profesional Anda
+//? Keterampilan teknis (hard skill). Keterampilan yang berkaitan dengan tugas atau situasi tertentu seperti pemrograman, penulisan teknis, manajemen proyek, dan banyak lagi.
+//? Keterampilan non-teknis (interpersonal). Keterampilan yang memungkinkan seseorang untuk menavigasi lingkungan, bekerja sama dengan baik, memiliki kinerja yang baik, dan mencapai tujuan mereka. Termasuk keterampilan seperti komunikasi, kepemimpinan, manajemen tim, dan banyak lagi.
+//? Kualitas pribadi. Ini adalah atribut dan sifat kepribadian yang positif seperti jujur, memiliki selera humor yang baik, dan dapat diandalkan. Anda juga dapat memasukkan minat profesional Anda dalam daftar ini.
+//? Pendidikan. Termasuk pendidikan pasca sekolah menengah, sertifikasi, atau kelas independen yang diselesaikan secara online maupun offline.

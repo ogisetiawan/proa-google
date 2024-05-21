@@ -2,11 +2,11 @@
 /*
  * @Author: ogi.setiawan 
  * @Date: 2024-05-07 17:28:49 
- * @Last Modified by:   ogi.setiawan 
- * @Last Modified time: 2024-05-07 17:28:49 
+ * @Last Modified by: ogi.setiawan
+ * @Last Modified time: 2024-05-15 17:05:16
  */
 
-
+ //! Dasar-dasar Manajemen Proyek
 //@ Module 1
 //~ Memahami Dasar dasar pryoek
 //? proses perencanaan, pengorganisasian, dan pengendalian sumber daya untuk mencapai tujuan proyek tertentu dalam batasan waktu, anggaran, dan kualitas yang telah ditentukan.
@@ -84,3 +84,100 @@
 //? Dinamika tim: Dinamika tim adalah cara anggota tim berinteraksi satu sama lain. Tim yang efektif memiliki komunikasi yang terbuka, saling percaya, dan saling mendukung.
 //? Keterampilan interpersonal: Keterampilan interpersonal adalah kemampuan untuk membangun hubungan dengan orang lain. Keterampilan interpersonal penting untuk kepemimpinan dan dinamika tim.
 //? Mempengaruhi tanpa otoritas: Mempengaruhi tanpa otoritas adalah kemampuan untuk membimbing orang lain untuk menyelesaikan pekerjaan mereka tanpa bertindak sebagai manajer langsung mereka. Ini membutuhkan keterampilan interpersonal yang kuat, seperti komunikasi, negosiasi, mediasi konflik, dan pemahaman motivasi.
+
+
+//@ Module 3
+//~ Menjelajahi fase-fase siklus hidup proyek
+//# Project life cycle; 
+//? meginisialisasi (menentukan tujuan proyek, identifikasi budget/timeline dan sumber daya)
+//? perencanaan (budget, resource, identifikasi tugas2)
+//? excute (memastikan stiap team memiliki tanggung jawab, tugas manejer proyek memantau dan menjaga tim agar termotivasi dan mengatasi setiap hambatan yang memperlambat ataupun menghentikan tim)
+//? finalize project (meneutup dan merayakan, dan juga mengevaluasi proyek yang berjalan) 
+//~ Menganalisis berbagai fase proyek   
+/// Pelaksanaan fase: Memulai dan merencanakan
+//# Memulai
+//? Mendefinisikan tujuan proyek untuk memastikan kejelasan dan keberhasilan\
+//? Melakukan riset dan mengidentifikasi sumber daya yang dibutuhkan (orang, peralatan, perangkat lunak, dll.).
+//? Mencatat detail dalam proposal proyek dan mendapatkan persetujuan dari pemangku kepentingan
+//# Merencanakan (Membantu mengidentifikasi dan mengurangi risiko)
+//? Membuat anggaran dan jadwal proyek.
+//? Membentuk tim proyek dan menetapkan peran dan tanggung jawab.
+//? Merencanakan risiko dan perubahan yang mungkin terjadi.
+//? Mengomunikasikan rencana kepada tim dan pemangku kepentingan lainnya
+/// Pelaksanaan fase: Melaksanakan dan menutup
+//? Melaksanakan fase; tentang menempatkan rencana Anda ke dalam tindakan dan membantu menghilangkan hambatan dan memberi tahu orang yang tepat jika tampaknya ada penundaan pada proyek
+//? Menutup fase; tentang memastikan semua tugas telah selesai (dokumentasi proyek telah diserahkan)
+//? Setelah proyek Anda diterima sebagai memenuhi tujuannya, luangkan waktu untuk merenungkan apa yang berjalan dengan baik dan mungkin apa yang tidak berjalan dengan baik
+//? Terakhir, luangkan waktu untuk merayakan upaya yang diinvestasikan tim Anda dalam proyek
+/// Rangkuman fase-fase proyek
+//# Memulai proyek
+//? Siapa saja para pemangku kepentingannya?
+//? Apa tujuan dan misi proyek tersebut?
+//? Kapan proyek ini harus diselesaikan? 
+//? Keahlian dan sumber daya apa yang dibutuhkan proyek tersebut? 
+//# Membuat perencanaan
+//? Buatlah sebuah perencanaan proyek yang terperinci. Apa yang menjadi milestone utamanya? Tugas atau deliverable (hasil kerja) apa yang membentuk setiap milestone-nya?  
+//? Buatlah jadwal agar Anda dapat mengelola sumber daya, anggaran, material dan rentang waktu dengan baik. Di sini, Anda akan membuat anggaran yang terperinci.
+//# Pelaksanaan proyek
+//? Uraikan semua hambatan yang akan memperlambat ataupun menghentikan tim dalam menyelesaikan tugas-tugasnya. 
+//? Bantu anggota tim Anda agar selalu memperhatikan jadwal dan mencapai deliverable yang sesuai dengan ekspektasi.
+//? Sesuaikan dengan perubahan yang muncul dalam proyek tersebut begitu hal tersebut muncul
+//# Penutupan proyek
+//? Identifikasi bahwa tim Anda telah menyelesaikan semua capaian yang telah ditentukan
+//? Luangkan waktu bersama tim Anda untuk merayakan kesuksesan
+//? Dokumentasikan hal-hal yang Anda dan tim telah pelajari selama pelaksanaan proyek.
+//? Refleksikan cara-cara untuk melakukan tugasdengan lebih baik di masa mendatang
+//~ Membandingkan beragam metodologi dan pendekatan manajemen proyek
+//# Pengantar metodologi manajemen proyek
+//? metodologi manajemen proyek; serangkaian prinsip dan proses yang menjadi panduan untuk mengelola sebuah proyek melalui siklus hidupnya. Metodenya bisa bersifat linier (satu tugas diselesaikan sebelum tugas berikutnya dimulai) atau iteratif (beberapa tugas dikerjakan di waktu yang sama).   
+//? Metodologi linier; fase atau tugas sebelumnya harus diselesaikan sebelum yang berikutnya dapat dimulai
+//? Metodologi iteratif yang lebih fleksibel di mana beberapa fase dalam tugas akan tumpang tindih atau terjadi pada saat yang sama dengan tugas lain sedang dikerjakan (memproduksi acara baru)
+//? Google mengambil pendekatan hibrida untuk manajemen proyek. mencampur dan mencocokkan dari metode yang berbeda tergantung pada jenis proyek.
+//# Garis besar Waterfall dan Agile
+//? Waterfall; Fase-fase diselesaikan satu per satu berurutan, wwaktu sudah ditentukan,
+//? Agile; fase fase yang lebih fleksibel dan iteratif(scrum master), fokus pada sprint/feature
+//? Scrum; sebuah kerangka kerja Agile yang berfokus pada pengembangan, penyampaian, serta mempertahankan proyek dan produk yang kompleks melalui kolaborasi, akuntabilitas dan sebuah proses iteratif.
+//# Perbandingan antara Waterfall dan Agile
+//! Waterfall
+//? Pendekatan: Tradisional, linier, dan terstruktur.
+//? Fase: Inisiasi, perencanaan, pelaksanaan, dan penutupan.
+//? Ruang lingkup: Jelas dan stabil.
+//? Perubahan: Sulit dan mahal untuk diterapkan.
+//? Jadwal: Tetap dan tidak fleksibel.
+//? Biaya: Dikendalikan dengan perkiraan yang cermat di awal.
+//? Kualitas: Didefinisikan dengan jelas di awal proyek.
+//? Komunikasi: Berfokus pada pemangku kepentingan.
+//? Pemangku kepentingan: Terlibat secara berkelanjutan.
+//! Agile
+//? Pendekatan: Fleksibel, iteratif, dan kolaboratif.
+//? Fase: Iterasi yang disebut sprint.
+//? Ruang lingkup: Tidak jelas atau berubah.
+//? Perubahan: Mudah dan murah untuk diterapkan.
+//? Jadwal: Fleksibel dan dapat disesuaikan.
+//? Biaya: Dapat berubah di setiap iterasinya.
+//? Kualitas: Ditingkatkan secara berkelanjutan melalui umpan balik.
+//? Komunikasi: Berfokus pada pelanggan dan tim.
+//? Pemangku kepentingan: Terlibat secara berkala.
+//# Pengantar Lean dan Six Sigma
+//? Lean dan Six Sigma adalah dua metodologi yang dapat digunakan untuk meningkatkan proses.
+//? Lean berfokus pada penghapusan pemborosan, sedangkan Six Sigma berfokus pada pengurangan variasi
+//? Define, Measure, Analyze, Improve, dan Control (DMAIC); strategi untuk peningkatan proses, yang berarti Anda mencoba mencari tahu di mana masalah dalam proses saat ini dan memperbaikinya sehingga semuanya berjalan lebih lancar
+//# Metodologi Lean dan Six Sigma
+//! Lean (Lean Manufacturing)
+//? mengidentifikasi delapan tipe pemborosan dalam suatu proses produksi: kecacatan, proses yang berlebihan, kelebihan produksi, waktu tunggu, inventaris, transportasi, pergerakan, dan bakat yang tidak dimanfaatkan.
+//! Metode 5S meliputi
+//? Sort (menggolongkan): Meniadakan semua item yang tidak diperlukan untuk operasional produksi saat ini dan menyisakan hanya hal-hal yang penting saja. 
+//? Set in order (mengatur sesuai urutan): Mengatur item-item yang diperlukan agar mudah digunakan. Memberi label pada item-item tersebut agar setiap orang dapat dengan mudah menemukan atau membuangnya jika tidak diperlukan. 
+//? Shine (memoles): Meletakkan segala sesuatu pada tempatnya. Membersihkan tempat kerja Anda setiap hari.
+//? Standardize (membuat standarisasi): Melakukan prosesnya dengan cara yang sama setiap saat. 
+//? Sustain (mempertahankan): Membiasakan mempertahankan prosedur yang benar dan menanamkan disiplin ini pada tim Anda.
+//! Six Sigma
+//? untuk mengurangi variasi dengan memastikan dilakukannya proses-proses yang berkualitas setiap saat (proses harus memiliki kualitas 99,9996%.)
+//! Tujuh prinsip utama Six Sigma
+//? Selalu berfokus pada pelanggan.
+//? Mengidentifikasi dan memahami bagaimana pekerjaan dilakukan. Memahami bagaimana pekerjaan benar-benar dilakukan.
+//? Membuat alur proses Anda berjalan lancar.
+//? Mengurangi pemborosan dan berkonsentrasi pada nilai.
+//? Menghentikan kecacatan dengan meniadakan variasi.
+//? Melibatkan dan berkolaborasi dengan tim Anda.
+//? Melakukan pendekatan pada aktivitas perbaikan secara sistematis.

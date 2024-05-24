@@ -139,18 +139,18 @@
 //? Agile; fase fase yang lebih fleksibel dan iteratif(scrum master), fokus pada sprint/feature
 //? Scrum; sebuah kerangka kerja Agile yang berfokus pada pengembangan, penyampaian, serta mempertahankan proyek dan produk yang kompleks melalui kolaborasi, akuntabilitas dan sebuah proses iteratif.
 /// Perbandingan antara Waterfall dan Agile
-//! Waterfall
+//! Waterfall (skipsi, proyek yang sudah paten/ada dokumentasi)
 //? Pendekatan: Tradisional, linier, dan terstruktur.
 //? Fase: Inisiasi, perencanaan, pelaksanaan, dan penutupan.
 //? Ruang lingkup: Jelas dan stabil.
-//? Perubahan: Sulit dan mahal untuk diterapkan.
+//? Perubahan: Sulit d1an mahal untuk diterapkan.
 //? Jadwal: Tetap dan tidak fleksibel.
 //? Biaya: Dikendalikan dengan perkiraan yang cermat di awal.
 //? Kualitas: Didefinisikan dengan jelas di awal proyek.
 //? Komunikasi: Berfokus pada pemangku kepentingan.
 //? Pemangku kepentingan: Terlibat secara berkelanjutan.
-//! Agile
-//? Pendekatan: Fleksibel, iteratif, dan kolaboratif.
+//! Agile (pembuatan aplikasi yang baru/belum jelas, proyek yang masih samar2)
+//? Pendekatan: Fleksibel, iteratif(berubah-ubah), dan kolaboratif.
 //? Fase: Iterasi yang disebut sprint.
 //? Ruang lingkup: Tidak jelas atau berubah.
 //? Perubahan: Mudah dan murah untuk diterapkan.
@@ -197,6 +197,7 @@
 //~ Memahami Dampak Budaya Organisasi
 //? hal penting karena memiliki dampak langsung pada Anda sebagai manajer proyek, dan mempelajari cara menavigasi budaya organisasi memberi Anda keuntungan besar saat menjalankan proyek
 //? memahami budaya perusahaan dapat membantu Anda memutuskan apakah posisi tersebut cocok untuk Anda dan prioritas Anda
+//? jadi ga harus lihat gaji dan posisi, lihat budaya perusahaan terhadap employee gimana, flexible atau support etc
 //~ Memahami change management (manajemen perubahan)
 //? Manajemen perubahan; proses membantu orang untuk beradaptasi dengan perubahan baru
 //# Konsep Inti:
@@ -228,3 +229,41 @@
 //? Keterampilan non-teknis (interpersonal). Keterampilan yang memungkinkan seseorang untuk menavigasi lingkungan, bekerja sama dengan baik, memiliki kinerja yang baik, dan mencapai tujuan mereka. Termasuk keterampilan seperti komunikasi, kepemimpinan, manajemen tim, dan banyak lagi.
 //? Kualitas pribadi. Ini adalah atribut dan sifat kepribadian yang positif seperti jujur, memiliki selera humor yang baik, dan dapat diandalkan. Anda juga dapat memasukkan minat profesional Anda dalam daftar ini.
 //? Pendidikan. Termasuk pendidikan pasca sekolah menengah, sertifikasi, atau kelas independen yang diselesaikan secara online maupun offline.
+
+//! Inisiasi Proyek: Memulai Proyek yang Sukses
+//@ Dasar-dasar inisiasi proyek
+//~ Memahami komponen-komponen kunci dari inisiasi proyek
+/// Mengapa inisiasi proyek penting
+//? Inisiasi adalah fase pertama dalam siklus hidup proyek, dan ini adalah langkah penting untuk memastikan keberhasilan proyek.
+//? Inisiasi dimulai setelah masalah atau peluang diidentifikasi dalam suatu organisasi
+//? penting untuk mengajukan pertanyaan yang tepat kepada pemangku kepentingan, melakukan penelitian, menentukan sumber daya, dan mendokumentasikan dengan jelas
+/// Komponen-komponen kunci dari inisialisasi proyek
+//? Tujuan; apa yang ingin Anda capai dengan proyek Anda. Tujuan harus jelas dan terukur.
+//? Ruang lingkup; pekerjaan yang perlu dilakukan untuk menyelesaikan proyek. (lingkup proyek akan seperti apa)
+//? Hasil; produk atau layanan yang akan Anda buat untuk pelanggan (gambaran hasil akan seperti apa)
+//? Kriteria keberhasilan; harus spesifik, terukur, dapat dicapai, relevan, dan terikat waktu (SMART). mengirimkan survei kepuasan untuk mengumpulkan umpan balik karyawan secara langsung
+//? Pemangku kepentingan; orang-orang yang memiliki kepentingan dalam keberhasilan proyek (yang mutusin)
+//? Sumber daya; aset yang Anda miliki untuk menyelesaikan proyek. (orang, alat dll)
+//? Piagam proyek (project summary) dokumen yang menguraikan tujuan, ruang lingkup, hasil, kriteria keberhasilan, pemangku kepentingan, dan sumber daya proyek
+/// Melakukan analisis biaya-manfaat
+//? analisis biaya-manfaat; proses menjumlahkan nilai yang diharapkan dari sebuah proyek—manfaatnya—dan membandingkannya dengan biaya uangnya
+///# Untuk menentukan manfaat proyek, Anda mungkin bertanya:
+//? Nilai apa yang akan diciptakan oleh proyek ini? 
+//? Berapa banyak uang yang akan dihasilkan dari pelanggan yang sudah ada?
+//? Berapa banyak waktu yang akan dihemat? 
+//# Untuk menentukan biaya proyek, pertimbangkan pertanyaan seperti:
+//? Berapa banyak waktu yang harus dihabiskan untuk proyek ini?
+//? Apa yang akan menjadi biaya sekali saja (one-time cost )?
+//? Apakah ada biaya operasional (ongoing)?
+//? Bagaimana dengan biaya jangka panjang?
+//# mempertimbangkan pertanyaan tentang manfaat intangible (tak berwujud). Manfaat intangible (tak berwujud) adalah keuntungan yang tidak dapat diukur, seperti:
+//? Kepuasan pelanggan. Akankah proyek meningkatkan retensi pelanggan, yang menyebabkan mereka menghabiskan lebih banyak untuk produk atau layanan perusahaan? 
+//? Kepuasan karyawan. Apakah proyek cenderung meningkatkan moril karyawan, mengurangi rasio pergantian karyawan? 
+//? Produktivitas karyawan. Akankah proyek mengurangi jam lembur karyawan, menghemat uang perusahaan?
+//? Persepsi brand. Apakah proyek cenderung meningkatkan persepsi dan pengakuan brand (merek) perusahaan, menarik lebih banyak pelanggan, atau memberikan keunggulan kompetitif?
+//# Satu rumus ROI yang umum adalah:
+//? ROI : ( G(keuntungan finansial) - C (biaya operasional proyek) ) / C(biaya operasional proyek)
+//? Misalnya, bayangkan biaya proyek Anda $6.000 di muka ditambah $25 per bulan selama 12 bulan. Ini sama dengan $300 per tahun,
+//? tetapi Anda memperkirakan bahwa proyek tersebut akan menghasilkan pendapatan $10.000 selama tahun
+//? Dengan menggunakan rumus di atas, Anda menghitung ROI sebagai: 
+//? ($10.000 - $6.300) ÷ $6.300 = 0,58 = 58%

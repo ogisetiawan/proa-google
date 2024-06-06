@@ -231,7 +231,7 @@
 //? Pendidikan. Termasuk pendidikan pasca sekolah menengah, sertifikasi, atau kelas independen yang diselesaikan secara online maupun offline.
 
 //! Inisiasi Proyek: Memulai Proyek yang Sukses
-//@ Dasar-dasar inisiasi proyek
+//@ Modul 1 - Dasar-dasar inisiasi proyek
 //~ Memahami komponen-komponen kunci dari inisiasi proyek
 /// Mengapa inisiasi proyek penting
 //? Inisiasi adalah fase pertama dalam siklus hidup proyek, dan ini adalah langkah penting untuk memastikan keberhasilan proyek.
@@ -267,3 +267,31 @@
 //? tetapi Anda memperkirakan bahwa proyek tersebut akan menghasilkan pendapatan $10.000 selama tahun
 //? Dengan menggunakan rumus di atas, Anda menghitung ROI sebagai: 
 //? ($10.000 - $6.300) ÷ $6.300 = 0,58 = 58%
+
+//@ Module 2 - Menetapkan tujuan, ruang lingkup, dan kriteria keberhasilan proyek
+//~ Mengidentifikasi tujuan proyek
+/// Menetapkan tujuan, ruang lingkup, dan kriteria keberhasilan proyek:
+//? Tujuan proyek; apa yang telah Anda diminta untuk lakukan dan apa yang ingin Anda capai.
+//? Ruang lingkup proyek; pekerjaan yang diperlukan untuk menyelesaikan proyek. Ini mencakup semua tugas, hasil, dan aktivitas yang diperlukan untuk mencapai tujuan proyek.
+//? Kriteria keberhasilan proyek; kriteria yang akan digunakan untuk menentukan apakah proyek telah berhasil atau tidak.
+//? deliverable; apa yang dihasilkan atau disajikan di akhir tugas, acara, atau proses.
+/// Cara menetapkan tujuan yang SMART
+//? SMART; singkatan dari Specific, Measurable, Achievable, Relevant, dan Time-bound (Spesifik, Terukur, Dapat dicapai, Relevan, dan Terikat Waktu)
+//! Tips untuk menetapkan tujuan SMART:
+//? Buatlah tujuan Anda spesifik. Apa yang ingin Anda capai? Kapan Anda ingin mencapainya? Siapa yang terlibat?
+//? Buatlah tujuan Anda terukur. Bagaimana Anda akan mengukur kemajuan Anda? Apa metriknya?
+//? Buatlah tujuan Anda dapat dicapai. Apakah tujuan Anda realistis? Apakah Anda memiliki sumber daya dan kemampuan untuk mencapainya?
+//? Buatlah tujuan Anda relevan. Apakah tujuan Anda selaras dengan tujuan Anda yang lebih besar? Apakah itu sepadan dengan usaha?
+//? Buatlah tujuan Anda terikat waktu. Kapan Anda akan mencapai tujuan Anda? Kapan tenggat waktunya?
+/// Pengantar OKR
+//? alat yang digunakan oleh organisasi untuk menetapkan dan mengklarifikasi tujuan untuk organisasi, departemen, proyek, atau individu.
+//? Tujuan mendefinisikan apa yang perlu dicapai dan menggambarkan hasil yang diinginkan.
+//? Hasil utama mendefinisikan bagaimana Anda akan mengukur hasil dari tujuan Anda.
+//? menetapkan ruang lingkup yang sesuai untuk tim, sehingga Anda bisa mengatakan "tidak" terhadap permintaan yang mungkin menghalangi mereka untuk mencapai tujuan.
+//~ Mendefinisikan ruang lingkup proyek
+/// Menentukan ruang lingkup proyek ( Batasan proyek)
+//? Ruang lingkup proyek adalah pemahaman yang disepakati tentang apa yang termasuk atau tidak termasuk dalam suatu proyek
+//? Ruang lingkup proyek mencakup: Kepada siapa proyek akan dikirimkan dan siapa yang akan menggunakan hasil akhir proyek. Kompleksitas proyek. Garis waktu proyek, anggaran, dan sumber daya.
+/// Mengelola perubahan pada ruang lingkup proyek
+//? Perubahan ruang lingkup adalah setiap perubahan pada pekerjaan yang termasuk dalam ruang lingkup proyek.
+//? Mengelola perubahan ruang lingkup adalah proses mengidentifikasi, mengevaluasi, dan menyetujui perubahan ruang lingkup.

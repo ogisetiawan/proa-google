@@ -295,3 +295,70 @@
 /// Mengelola perubahan pada ruang lingkup proyek
 //? Perubahan ruang lingkup adalah setiap perubahan pada pekerjaan yang termasuk dalam ruang lingkup proyek.
 //? Mengelola perubahan ruang lingkup adalah proses mengidentifikasi, mengevaluasi, dan menyetujui perubahan ruang lingkup.
+
+
+//@ Module 3 - Bekerja secara efektif dengan para pemangku kepentingan
+//~ Menjelajahi peran dan tanggung jawab dalam tim proyek
+/// Memilih tim proyek
+//? Pertama, seorang manajer proyek akan membuat daftar peran yang mereka perlukan di tim mereka untuk menyelesaikan setiap tugas.
+//? Setelah tugas-tugas tersebut ditetapkan dengan jelas, manajer proyek memutuskan berapa banyak orang yang mereka perlukan di tim mereka
+//? Saat memilih rekan tim, seorang manajer proyek juga harus mempertimbangkan ketersediaan setiap orang dan apakah mereka akan merasa termotivasi untuk menyelesaikan tugas yang diberikan
+//? Berapa banyak orang yang saya butuhkan di tim saya di setiap langkah? Anggota tim mana yang saya butuhkan dan kapan? Apakah para ahli tersebut sudah sibuk dengan proyek lain? Siapa yang membuat keputusan akhir tentang sumber daya proyek?
+/// Ulasan: Susunan tim terbaik untuk suatu proyek
+//? Sebagai manajer proyek, tugas Anda adalah menemukan keseimbangan yang tepat berdasarkan apa yang dibutuhkan.
+//? Keterampilan interpersonal tim, juga perlu diperhatikan, seperti kesabaran dan mediasi konflik, dapat membantu para anggota tim
+//? Keterampilan pemecahan masalah; suatu keharusan bagi semua anggota tim, terutama jika menyangkut proyek berukuran besar dan kompleks
+//# Apa yang memotivasi mereka?
+//? seseorang yang secara proaktif mengajukan diri untuk proyek itu mungkin memiliki motivasi tambahan 
+//? Sebagai manajer proyek,  bertanggung jawab untuk mempertahankan motivasi mereka
+/// Mendefinisikan peran proyek
+//? project Sponsor: orang yang mendanai proyek
+//? team members; orang yang melakukan tugas sehari-hari pada project
+//? customers; orang yang mendapatkan suatau nilai dari proyek/ buyer
+//? users; orang yang terbantu dari suatu proyek/ users
+//? slateholders: Orang yang terlibat dalam proyek dan memiliki kepentingan terhadap keberhasilan proyek
+/// Peran proyek yang penting
+//# manajer proyek
+//? Manajer proyek mengintegrasikan semua pekerjaan proyek dengan cara mengembangkan rencana manajemen proyek, mengarahkan pekerjaan, mendokumentasikan laporan, mengendalikan perubahan, dan memantau kualitas. 
+//? mengelola keterlibatan para pemangku kepentingan, manajer proyek mengandalkan keterampilan komunikasi yang baik, kesadaran politik dan budaya, negosiasi, cara membangun kepercayaan, dan keterampilan manajemen konflik.
+//# Anggota tim proyek 
+//? memilih rekan tim dengan keterampilan teknis dan keterampilan interpersonal yang tepat akan sangat berharga
+//? pastikan untuk memperjuangkan keberagaman dan membangun kepercayaan untuk menciptakan keharmonisan dalam tim.
+//~ Mengevaluasi pemangku kepentingan
+/// Menyelesaikan analisis pemangku kepentingan
+//? Pemangku kepentingan adalah individu atau kelompok yang terkena dampak atau dapat memengaruhi proyek.
+//? Analisis pemangku kepentingan adalah proses mengidentifikasi, menganalisis, dan memprioritaskan pemangku kepentingan proyek.
+//# Ada tiga langkah utama dalam menyelesaikan analisis pemangku kepentingan:
+//? Buat daftar semua pemangku kepentingan.
+//? Tentukan tingkat kepentingan dan pengaruh untuk setiap pemangku kepentingan.
+//? Nilai kemampuan pemangku kepentingan untuk berpartisipasi, dan temukan cara untuk melibatkan mereka.
+//? Matriks Kekuasaan-Kepentingan adalah alat yang membantu Anda untuk memvisualisasikan kepentingan dan pengaruh pemangku kepentingan Anda
+/// Memprioritaskan pemangku kepentingan dan menggalang dukungan mereka
+//# langkah-langkah penting dalam analisis pemangku kepentingan:
+//? Buatlah daftar semua pemangku kepentingan yang terkena dampak proyek
+//? Tentukan tingkat kepentingan dan pengaruh untuk setiap pemangku kepentingan-langkah ini membantu menentukan siapa pemangku kepentingan utama Anda
+//# Memvisualisasikan analisis Anda
+//? Power grid menunjukkan kepentingan pemangku kepentingan dalam proyek versus pengaruh mereka atas proyek tersebut
+//# Pertanyaan yang disarankan untuk para pemangku kepentingan
+//? Apa prioritas/tujuan Anda yang paling penting?
+//? Berikut ini cara yang saya rencanakan untuk memberi informasi kepada orang lain; apakah cara itu cocok untuk Anda?
+//? Menurut Anda di mana saya akan mendapatkan dukungan untuk inisiatif ini? Menghadapi penolakan?
+//~ Menetapkan peran dan tanggung jawab tim proyek
+/// Elemen elemen RACI
+//? RACI: alat yang membantu mendefinisikan peran dan tanggung jawab untuk individu atau tim untuk memastikan pekerjaan diselesaikan secara efisien.
+//# RACI ( bertanggung jawab, akuntabel, dikonsultasikan, dan diinformasikan )
+//? Bertanggung jawab mengacu pada mereka yang melakukan pekerjaan untuk menyelesaikan tugas.
+//? Akuntabel mengacu pada mereka yang memastikan pekerjaan diselesaikan.
+//? Dikonsultasikan termasuk mereka yang memberikan umpan balik, seperti ahli materi pelajaran atau pengambil keputusan.
+//? diinformasikan, yang mencakup mereka yang hanya perlu mengetahui keputusan akhir atau bahwa suatu tugas telah selesai.
+//? Diagram RACI juga bisa membantu Anda menganalisis dan menyeimbangkan beban kerja tim Anda
+//~ Mengapa proyek gagal: Kesalahan langkah inisiasi
+//? Kadang-kadang faktor yang menyebabkan kegagalan proyek berada di luar kendali Anda.
+//? Misalnya, teknologi untuk menyelesaikan proyek tidak tersedia atau pemangku kepentingan memutuskan untuk mengubah tujuan proyek secara drastis
+//? Tidak menyediakan waktu di awal proyek untuk mengajukan pertanyaan penting, mendokumentasikan keputusan, dan memahami ruang lingkup proyek yang sebenarnya dapat menyebabkan kegagalan. Lagi pula, tanpa pengarahan, Anda tidak akan pernah bisa mencapai tujuan Anda. 
+///# Ekspektasi yang tidak realistis
+//? Praktik terbaik adalah jangan berkomitmen pada tanggal yang pasti ketika memulai proyek untuk menghindari ekspektasi yang tidak realistis
+//# Kesalahpahaman
+//? Tetapkan ekspektasi untuk pendekatan komunikasi Anda lebih awal sehingga Anda, anggota tim, dan pemangku kepentingan memiliki pemahaman yang jelas tentang bagaimana Anda akan berkomunikasi dengan semuanya.
+//# Scope creep (Perluasan ruang lingkup yang tidak disadari) 
+//? Selama proyek berlangsung, pemangku kepentingan meminta agar dimasukkan tambahan baru, tetapi tidak ada perubahan yang dilakukan pada jadwal, anggaran, atau anggota tim untuk mencerminkan dampak dari penambahan jumlah hasil kerja. 

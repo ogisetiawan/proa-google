@@ -362,3 +362,35 @@
 //? Tetapkan ekspektasi untuk pendekatan komunikasi Anda lebih awal sehingga Anda, anggota tim, dan pemangku kepentingan memiliki pemahaman yang jelas tentang bagaimana Anda akan berkomunikasi dengan semuanya.
 //# Scope creep (Perluasan ruang lingkup yang tidak disadari) 
 //? Selama proyek berlangsung, pemangku kepentingan meminta agar dimasukkan tambahan baru, tetapi tidak ada perubahan yang dilakukan pada jadwal, anggaran, atau anggota tim untuk mencerminkan dampak dari penambahan jumlah hasil kerja. 
+
+//@ Module 4 - Memanfaatkan sumber daya dan peralatan untuk keberhasilan proyek
+//~ Memahami kebutuhan sumber daya proyek
+/// Mengelola sumber daya untuk menyelesaikan pekerjaan
+//? Sumber daya proyek biasanya mencakup anggaran, orang, dan material.
+//~ Mengembangkan dokumentasi untuk memulai proyek
+/// Mengembangkan dokumentasi untuk memulai proyek
+//? Dokumentasi membantu melacak keputusan, mengomunikasikan informasi, dan menetapkan dasar untuk proyek
+//? Dokumentasi harus mudah diakses oleh semua anggota tim.
+/// Serba-serbi proposal dan piagam proyek
+//# Proposal proyek
+//? dokumen yang dibuat di awal proyek untuk meyakinkan para pemangku kepentingan bahwa proyek tersebut layak dijalankan
+//# Piagam proyek (Project charter)
+//? dokumen formal yang secara jelas mendefinisikan proyek dan menguraikan detail yang diperlukan untuk mencapai tujuannya
+//? Piagam proyek adalah dokumen yang hidup, artinya dapat berkembang seiring dengan kemajuan proyek
+//? Memperjelas bahwa manfaat proyek lebih besar daripada biayanya
+//? Memberikan otorisasi untuk melanjutkan proyek setelah ditinjau dan disetujui oleh pemangku kepentingan dan sponsor proy
+//# Project charter biasanya mencakup;
+//? tujuan/sasaran, pengantar/ringkasan proyek, OKR dll
+//? https://www.coursera.org/learn/inisiasi-proyek-memulai-proyek-yang-sukses/supplement/wEGDz/project-charter-elemen-dan-formatnya
+//~ Mengevaluasi tool untuk memenuhi kebutuhan proyek
+/// Memanfaatkan berbagai tool untuk efektivitas manajemen proyek
+//# Memilih Tools yang Tepat:
+//? Pertimbangkan kebutuhan proyek (ukuran, kompleksitas).
+//? Pertimbangkan kemampuan tim dan pemangku kepentingan.
+//? Pertimbangkan fleksibilitas dan kemudahan penggunaan.
+///# manfaat tools
+//? Meningkatkan visibilitas dan transparansi proyek
+//? Memudahkan pelacakan tugas, deliverables, dan milestones.
+/// Memperkenalkan tool baru kepada tim
+//? Sebelum Anda memperkenalkan tool baru kepada tim Anda, Anda harus yakin bahwa perubahan ini benar-benar akan memberi manfaat bagi proyek
+

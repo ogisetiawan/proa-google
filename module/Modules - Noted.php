@@ -394,3 +394,89 @@
 /// Memperkenalkan tool baru kepada tim
 //? Sebelum Anda memperkenalkan tool baru kepada tim Anda, Anda harus yakin bahwa perubahan ini benar-benar akan memberi manfaat bagi proyek
 
+//! Perencanaan Proyek: Menyatukan Semuanya
+//@ Modul 1 - Memulai fase perencanaan
+//~ Memahami komponen fase perencanaan
+//? Perencanaan membantu Anda memetakan seluruh proyek dan memahami pekerjaan yang diperlukan untuk mencapai tujuan Anda.
+//? Manfaat besar lainnya dari perencanaan adalah memberi Anda waktu untuk mengidentifikasi dan mempersiapkan risiko yang dapat memengaruhi proyek Anda.
+/// Memulai fase perencanaan
+//? Fase perencanaan adalah fase kedua dari siklus hidup proyek.
+//? Rencana proyek tidak harus sempurna sejak awal.
+//# Tiga hal utama yang dikerjakan selama fase perencanaan jadwal, anggaran, dan rencana manajemen risiko.
+//? Jadwal pada dasarnya adalah garis waktu proyek
+//? Anggaran akan memperhitungkan total biaya untuk menyelesaikan proyek. Total biaya perlu dipecah untuk menentukan berapa banyak yang harus dikeluarkan untuk berbagai elemen proyek
+//? Manajemen risiko berarti mencari kemungkinan masalah dan merencanakan ke depan untuk mengurangi risiko ini
+/// Memfasilitasi kick-off meeting sebuah proyek
+//? Tujuan Kick-Off Meeting:
+//? Menyatukan tim dalam visi bersama.
+//? Memahami tujuan dan ruang lingkup proyek.
+//? Memahami peran masing-masing anggota tim.
+//# Struktur Agenda Kick-Off Meeting:
+//? Perkenalan (10 menit): Setiap anggota tim memperkenalkan diri dan peran mereka.
+//? Latar Belakang Proyek (5 menit): Menjelaskan bagaimana proyek muncul dan mengapa proyek tersebut penting.
+//? Visi Bersama (5 menit): Menyatukan tim dalam visi bersama untuk proyek tersebut.
+//? Tujuan dan Ruang Lingkup (5 menit): Menjelaskan tujuan proyek dan batasannya.
+//? Peran Tim (5 menit): Menjelaskan peran dan tanggung jawab masing-masing anggota tim.
+//? Kolaborasi (10 menit): Menentukan alat dan metode komunikasi untuk tim.
+//? Langkah Selanjutnya (10 menit): Menjelaskan langkah selanjutnya dan tindakan yang perlu diambil oleh masing-masing anggota tim.
+//? Sesi Tanya Jawab (15 menit): Menjawab pertanyaan dari anggota tim.
+//~ Mendefinisikan tugas dan milestone
+//? Milestone adalah titik penting dalam jadwal proyek yang menunjukkan kemajuan dan biasanya menandakan penyelesaian kiriman atau fase proyek
+//? Milestone membantu memastikan bahwa proyek Anda sesuai jadwal untuk mencapai tujuannya.
+/// Pentingnya mengatur milestone
+//? Milestone membantu Anda memahami jumlah pekerjaan yang dibutuhkan dalam proyek (Dengan memecah proyek menjadi milestone)
+//? Milestone membantu menjaga proyek tetap pada jalurnya (Dengan menetapkan milestone dan tenggat waktu yang jelas)
+//? Milestone memotivasi tim dan menunjukkan kemajuan kepada stakeholder
+/// Cara merencanakan milestone 
+//? Milestone adalah titik penting dalam proyek yang menandakan selesainya sebuah bagian atau pengiriman.
+//# Milestone membantu Anda untuk:
+//? Melihat gambaran besar dari jumlah pekerjaan yang dibutuhkan.
+//? Menjaga proyek tetap pada jalurnya.
+//? Mengidentifikasi area yang mungkin memerlukan sumber daya tambahan
+/// Menguraikan Work Breakdown Structure (WBS)
+//? perincian proyek yang berorientasi pada mengurai deliverable menjadi komponen-komponen yang lebih kecil
+//# Langkah-langkah membuat WBS
+//? Mulailah dengan gambaran umum proyek secara menyeluruh. Melakukan brainstorming dengan tim (Membuat feature cart)
+//? Mengidentifikasi tugas-tugas yang perlu dilakukan untuk memenuhi milestone tersebut. (Menyiapkan api dan event pada front-end)
+//? Memeriksa tugas-tugas itu dan menguraikannya lebih jauh menjadi sub-tugas. (membuat event passing data dll)
+
+
+//@ Modul 2 - Membuat rencana proyek
+//~ Memulai rencana proyek
+/// Menggabungkan potongan proyek
+//? Ruang lingkup dan sasaran (proyek charter)
+//? Work breakdown structure (WBS/Struktur perincian kerja)
+//? Anggaran 
+//? Rencana manajemen; rencana manajemen perubahan, rencana manajemen risiko, dan rencana komunikasi—semuanya
+//~ Menggunakan estimasi untuk menetapkan jadwal proyek
+//? Estimasi waktu: Total durasi tugas dari awal hingga akhir, termasuk waktu tidak aktif.
+//? Estimasi usaha: Jumlah dan kesulitan kerja aktif yang dibutuhkan untuk menyelesaikan tugas
+//# Buffer time
+//? Waktu tambahan yang ditambahkan ke akhir tugas atau proyek
+//? Menambahkan buffer ke tugas yang sulit diselesaikan atau memiliki elemen ketidakpastian
+/// Overcoming the planning fallacy (Mengatasi kekeliruan perencanaan)
+//? Mewaspadai “what-if” ("hal yang bisa terjadi") adalah keterampilan manajemen proyek utama. Mempertimbangkan situasi yang dapat memengaruhi apakah proyek selesai tepat waktu atau tidak dapat membantu Anda mengatasi kesalahan perencanaam
+/// Perencanaan kapsitas dan jalur kritis
+//? Perkiraan waktu ; prediksi jumlah total waktu yang diperlukan untuk menyelesaikan suatu tugas.
+//? Perkiraan usaha ; prediksi jumlah dan kesulitan kerja aktif yang diperlukan untuk menyelesaikan suatu tugas.
+//? Tugas paralel ; tugas yang dapat dikerjakan pada saat yang sama dengan tugas lain.
+/// Membuat jalur kritis
+//? Jalur kritis membantu Anda menentukan tugas-tugas penting yang harus diselesaikan pada proyek Anda untuk memenuhi sasaran akhir Anda
+///# Cara membuat jalur kritis
+//? Tangkap semua tugas ( berfokus pada tugas-tugas penting yang "harus dilakukan", daripada tugas-tugas yang "baik untuk dilakukan)
+//? Tetapkan ketergantungan (susun tugas tersebut dalam urutan penyelesaian dengan mengidentifikasi ketergantungan)
+//? Membuat diagram jaringan
+//? Membuat estimasi waktu
+//? Temukan jalur kritis
+/// Mendapatkan estimasi waktu yang akurat dari tim Anda
+//# mengumpulkan estimasi yang akurat dari rekan tim Anda:
+//? Mengajukan pertanyaan yang tepat: Ajukan pertanyaan terbuka yang tidak dapat dijawab dengan ya atau tidak
+//? Bernegosiasi secara efektif; Bekerjasamalah dengan rekan tim Anda untuk menemukan hasil yang sesuai untuk semua orang
+//? Berlatih empati: Tanyakan kepada rekan tim Anda tentang beban kerja mereka, termasuk pekerjaan di luar proyek Anda dan keseimbangan kehidupan
+//~ Memanfaatkan alat untuk membangun rencana proyek
+/// Praktik terbaik rencana proyek
+//? Memastikan peninjauan yang cermat atas kiriman, tonggak sejarah(milestone), dan tugas proyek
+//? Memberi diri Anda waktu untuk merencanakan. (penting untuk memberi diri Anda cukup waktu untuk membuat rencana yang realistis)
+//? Kenali dan rencanakan hal-hal yang tidak terduga
+//? Tetap penasaran (Ajukan banyak pertanyaan kepada anggota tim Anda tentang pekerjaan mereka untuk mendapatkan wawasan yang lebih dalam tentang tugas mereka untuk proyek tersebut)
+//? Perjuangkan rencana Anda (Setelah rencana Anda selesai, bagikan dengan tim dan pemangku kepentingan Anda. Jelaskan manfaat rencana tersebut dan bagaimana hal itu akan membantu mereka tetap pada jalur yang benar)

@@ -6,7 +6,7 @@
  * @Last Modified time: 2024-05-15 17:05:16
  */
 
-//! Dasar-dasar Manajemen Proyek
+//! COUSER 1 : DASAR DASAR MANAJEMEN PROYEK
 //@ Module 1 (Memulai karir di bidang manajemen proyek)
 //~ Memahami Dasar dasar pryoek
 //? proses perencanaan, pengorganisasian, dan pengendalian sumber daya untuk mencapai tujuan proyek tertentu dalam batasan waktu, anggaran, dan kualitas yang telah ditentukan.
@@ -139,7 +139,7 @@
 //? Agile; fase fase yang lebih fleksibel dan iteratif(scrum master), fokus pada sprint/feature
 //? Scrum; sebuah kerangka kerja Agile yang berfokus pada pengembangan, penyampaian, serta mempertahankan proyek dan produk yang kompleks melalui kolaborasi, akuntabilitas dan sebuah proses iteratif.
 /// Perbandingan antara Waterfall dan Agile
-//! Waterfall (skipsi, proyek yang sudah paten/ada dokumentasi)
+//# Waterfall (skipsi, proyek yang sudah paten/ada dokumentasi)
 //? Pendekatan: Tradisional, linier, dan terstruktur.
 //? Fase: Inisiasi, perencanaan, pelaksanaan, dan penutupan.
 //? Ruang lingkup: Jelas dan stabil.
@@ -149,7 +149,7 @@
 //? Kualitas: Didefinisikan dengan jelas di awal proyek.
 //? Komunikasi: Berfokus pada pemangku kepentingan.
 //? Pemangku kepentingan: Terlibat secara berkelanjutan.
-//! Agile (pembuatan aplikasi yang baru/belum jelas, proyek yang masih samar2)
+//# Agile (pembuatan aplikasi yang baru/belum jelas, proyek yang masih samar2)
 //? Pendekatan: Fleksibel, iteratif(berubah-ubah), dan kolaboratif.
 //? Fase: Iterasi yang disebut sprint.
 //? Ruang lingkup: Tidak jelas atau berubah.
@@ -230,7 +230,8 @@
 //? Kualitas pribadi. Ini adalah atribut dan sifat kepribadian yang positif seperti jujur, memiliki selera humor yang baik, dan dapat diandalkan. Anda juga dapat memasukkan minat profesional Anda dalam daftar ini.
 //? Pendidikan. Termasuk pendidikan pasca sekolah menengah, sertifikasi, atau kelas independen yang diselesaikan secara online maupun offline.
 
-//! Inisiasi Proyek: Memulai Proyek yang Sukses
+
+//! COURSE 2 : Inisiasi Proyek: Memulai Proyek yang Sukses
 //@ Modul 1 - Dasar-dasar inisiasi proyek
 //~ Memahami komponen-komponen kunci dari inisiasi proyek
 /// Mengapa inisiasi proyek penting
@@ -277,7 +278,7 @@
 //? deliverable; apa yang dihasilkan atau disajikan di akhir tugas, acara, atau proses.
 /// Cara menetapkan tujuan yang SMART
 //? SMART; singkatan dari Specific, Measurable, Achievable, Relevant, dan Time-bound (Spesifik, Terukur, Dapat dicapai, Relevan, dan Terikat Waktu)
-//! Tips untuk menetapkan tujuan SMART:
+//# Tips untuk menetapkan tujuan SMART:
 //? Buatlah tujuan Anda spesifik. Apa yang ingin Anda capai? Kapan Anda ingin mencapainya? Siapa yang terlibat?
 //? Buatlah tujuan Anda terukur. Bagaimana Anda akan mengukur kemajuan Anda? Apa metriknya?
 //? Buatlah tujuan Anda dapat dicapai. Apakah tujuan Anda realistis? Apakah Anda memiliki sumber daya dan kemampuan untuk mencapainya?
@@ -394,7 +395,8 @@
 /// Memperkenalkan tool baru kepada tim
 //? Sebelum Anda memperkenalkan tool baru kepada tim Anda, Anda harus yakin bahwa perubahan ini benar-benar akan memberi manfaat bagi proyek
 
-//! Perencanaan Proyek: Menyatukan Semuanya
+
+//! COURSE 3 :Perencanaan Proyek: Menyatukan Semuanya
 //@ Modul 1 - Memulai fase perencanaan
 //~ Memahami komponen fase perencanaan
 //? Perencanaan membantu Anda memetakan seluruh proyek dan memahami pekerjaan yang diperlukan untuk mencapai tujuan Anda.
@@ -480,3 +482,42 @@
 //? Kenali dan rencanakan hal-hal yang tidak terduga
 //? Tetap penasaran (Ajukan banyak pertanyaan kepada anggota tim Anda tentang pekerjaan mereka untuk mendapatkan wawasan yang lebih dalam tentang tugas mereka untuk proyek tersebut)
 //? Perjuangkan rencana Anda (Setelah rencana Anda selesai, bagikan dengan tim dan pemangku kepentingan Anda. Jelaskan manfaat rencana tersebut dan bagaimana hal itu akan membantu mereka tetap pada jalur yang benar)
+
+//@ Modul 3 - Mengelola pengangaran dan pengadaan
+//~ Memahami anggaran proyek
+/// Pentingnya pengaturan anggaran
+//? Anggaran dibuat pada fase inisiasi proyek 
+//? Anggaran proyek dipecah berdasarkan tonggak sejarah, yang merupakan titik penting dalam jadwal proyek yang menunjukkan kemajuan dan biasanya menandakan penyelesaian kiriman atau fase proyek.
+//? Anggaran proyek adalah alat untuk mengkomunikasikan dengan tepat apa yang dibutuhkan dan kapan dibutuhkan dengan para pemangku kepentingan
+//? sebagian besar proyek dibuat untuk meningkatkan produktivitas tenaga kerja, meningkatkan pendapatan, atau mencoba menghemat biaya dalam suatu organisasi
+/// Komponen kunci dari suatu anggaran proyek
+//? Ada banyak faktor yang perlu dipertimbangkan saat membuat anggaran proyek, termasuk kebutuhan pemangku kepentingan, biaya sumber daya, analisis cadangan, anggaran kontinjensi, dan biaya kualita
+/// Penanggaran proyek 101
+//# Praktik terbaik penganggaran proyek
+//? Referensi data historis
+//? Manfaatkan tim, mentor, atau manajer Anda
+//? Pilah waktu anggaran Anda dalam tahapan-tahapan
+//? Periksa dan periksa ulang kembali
+//# Membuat kategori untuk berbagai jenis biaya
+//? memperhitungkan biaya langsung dan biaya tidak langsung dalam anggaran proyek
+//? Acuan dasar anggaran adalah perkiraan awal biaya proyek pada permulaan proyek Anda
+//~ Mengelola anggaran proyek
+//? waktu yang tepat untuk meninjau kembali anggaran proyek dan mengidentifikasi apakah Anda perlu melakukan perubahan adalah Setelah Anda mencapai milestone
+/// Mengatasi tantangan penganggaran
+//? Pra-alokasi anggaran; 
+//? Menghitung TCO secara tidak akurat; meremehkan total biaya kepemilikan (Total Cost of Ownership/TCO) untuk sumber daya proyek
+//? creep adalah ketika perubahan, pertumbuhan, dan faktor lain mempengaruhi ruang lingkup proyek pada titik mana pun setelah proyek dimulai
+//~ Pengantar Pengadaan
+/// Prosess pengadaan
+//? Proses pengadaan adalah proses perencanaan dan perolehan barang dan jasa yang dibutuhkan untuk suatu proyek
+//? Inisiasi: Mendefinisikan kebutuhan dan membuat kasus untuk mendapatkan sumber daya tambahan.
+//? Seleksi: Memutuskan persediaan yang dibutuhkan dan vendor yang akan digunakan.
+//? Penulisan kontrak: Mengembangkan, meninjau, dan menandatangani kontrak.
+//? Kontrol: Melakukan pembayaran, mengatur logistik dan persyaratan untuk menjaga kualitas, dan memastikan perjanjian layanan dipenuhi.
+//? Penyelesaian: Mengukur keberhasilan pengadaan.
+/// Dokumentasi umum untuk pengadaan
+//? Perjanjian Kerahasiaan (NDA): NDA adalah dokumen standar di banyak perusahaan, dan merupakan praktik terbaik untuk meminta pekerja kontrak eksternal untuk menandatangani NDA. Tujuan dari NDA adalah untuk menjaga informasi rahasia di dalam organisasi
+//? Permintaan Proposal (RFP): RFP adalah dokumen yang menguraikan detail dan persyaratan proyek organisasi untuk diteruskan ke vendor
+//? Pernyataan Kerja (SOW): SOW dikirim setelah vendor dipilih dan berkembang seiring berjalannya proyek (menjelaskan produk dan layanan yang akan disediakan oleh vendor atau kontraktor untuk suatu organisasi.)
+
+//? 

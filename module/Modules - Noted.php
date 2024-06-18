@@ -520,4 +520,37 @@
 //? Permintaan Proposal (RFP): RFP adalah dokumen yang menguraikan detail dan persyaratan proyek organisasi untuk diteruskan ke vendor
 //? Pernyataan Kerja (SOW): SOW dikirim setelah vendor dipilih dan berkembang seiring berjalannya proyek (menjelaskan produk dan layanan yang akan disediakan oleh vendor atau kontraktor untuk suatu organisasi.)
 
-//? 
+//@ Modul 4 - Mengelola resiko secara efektif
+//~ Memahami management resiko
+/// Pentingnya manajemen risiko
+//? Manajemen risiko adalah proses mengidentifikasi, menilai, dan menanggapi risiko potensial yang dapat memengaruhi proyek.
+//# Tahapan manajemen risiko
+//? Mengidentifikasi risiko; mengidentifikasi dan menentukan risiko potensial proyek bersama tim Anda
+//? Menganalisis risiko; tentukan probabilitas dan dampak potensialnya terhadap proyek Anda
+//? Mengevaluasi risiko; hasil analisis risiko Anda untuk menentukan prioritas risiko.
+//? Menangani risiko; buatlah rencana cara menangani dan mengelola setiap risikonya, Anda dapat mengabaikan risiko kecil
+//? Memantau dan mengendalikan risiko.
+//~ Mengidentifikasi dan menilai resiko
+/// Tool untuk identifikasi risiko
+//? Brainstorming; salah satu teknik paling efektif untuk mengidentifikasi risiko dengan tim karena memungkinkan kelompok untuk secara spontan berbagi ide tanpa penilaian
+//? Diagram sebab-akibat(diagram fishbone), juga dikenal sebagai diagram tulang ikan, menunjukkan kemungkinan penyebab suatu peristiwa atau risiko
+//? Daftar risiko adalah tabel atau bagan yang berisi daftar risiko Anda
+//? Penilaian risiko adalah tahap manajemen risiko di mana kualitas risiko diperkirakan atau diukur
+//? Matriks probabilitas dan dampak adalah alat yang digunakan untuk memprioritaskan risiko proye
+//? Risiko inheren adalah ukuran risiko yang dihitung berdasarkan probabilitas dan dampaknya.
+///Jenis-jenis risiko
+//? Risiko waktu mengacu pada kemungkinan bahwa tugas proyek akan memakan waktu lebih lama dari yang diperkirakan untuk diselesaikan
+//? Risiko anggaran mengacu pada kemungkinan bahwa biaya proyek akan meningkat karena perencanaan yang buruk atau memperluas ruang lingkup proyek 
+//? Risiko ruang lingkup mengacu pada kemungkinan bahwa suatu proyek tidak akan menghasilkan hasil yang digariskan dalam tujuan proyek
+//? Risiko eksternal adalah risiko yang diakibatkan oleh faktor-faktor di luar perusahaan yang tidak dapat Anda kendalikan (badai, kiamat)
+/// Mengelola risiko titik tunggal kegagalan
+//? risiko yang, jika terjadi, dapat menyebabkan gangguan yang signifikan pada proyek Anda dan bahkan bisa menghentikannya
+//# 4 strategi mitigasi risiko yang dapat digunakan untuk mengelola risiko titik tunggal kegagalan:
+//? Menghindari: Mencari cara lain untuk menghindari risiko tersebut.
+//? Meminimalkan: Mengurangi dampak risiko tersebut.
+//? Mentransfer: Mengalihkan tanggung jawab penanganan risiko ke pihak lain.
+//? Menerima: Menerima risiko sebagai biaya wajar dalam berbisnis.
+//? subject matter expert (SME)—yaitu anggota tim yang mahir tentang suatu pekerjaan, proses, departemen, fungsi, teknologi, mesin, material atau jenis peralatan tertentu
+//~ Memitigasi dan mengomunikasikan risiko
+/// Strategi mitigasi resiko
+//? proses mengidentifikasi dan mengambil langkah-langkah untuk mengurangi dampak potensial dari risiko pada proyek Anda

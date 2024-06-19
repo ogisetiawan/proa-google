@@ -554,3 +554,26 @@
 //~ Memitigasi dan mengomunikasikan risiko
 /// Strategi mitigasi resiko
 //? proses mengidentifikasi dan mengambil langkah-langkah untuk mengurangi dampak potensial dari risiko pada proyek Anda
+
+//@ Modul 5 - Mengelola resiko secara efektif
+//~ Membuat rencana komunikatif yang efektif
+/// Mengapa komunikasi sangat penting
+//? Komunikasi yang baik dan efektif selalu jelas, jujur, relevan, dan sering, tetapi tidak terlalu sering. Ada yang namanya kelebihan informasi.
+/// Memulai penyusunan rencana komunikasi
+//# Buatkan beberapa list kolom untuk plan komuniskasi:
+//? Apa yang perlu dikomunikasikan? Ini bisa berupa hal-hal seperti pembaruan status, masalah, umpan balik dari pengguna, check-in harian
+//? Siapa yang perlu berkomunikasi? Ini adalah penerima informasi, seperti pemangku kepentingan utama dan tim inti proyek
+//? Kapan komunikasi perlu terjadi? Ini termasuk frekuensi, yaitu seberapa sering Anda akan berkomunikasi, dan tanggal-tanggal
+//? Mengapa dan bagaimana berkomunikasi? Ini adalah metode pengiriman yang akan Anda gunakan, seperti email, tatap muka, atau pertemuan virtual
+//? Di mana informasi yang dikomunikasikan disimpan? Ini harus mudah diakses sehingga Anda, pemangku kepentingan, dan tim Anda dapat dengan cepat menemukan sumber daya
+//~ Mendokumentasikan sumber refrensi perencanaan proyek
+/// Manfaat dokumentasi proyek
+//? Dokumentasi proyek berfungsi sebagai bentuk komunikasi yang dapat diakses dan dikontribusikan oleh orang lain
+//? Membantu pengambilan keputusan dan perencanaan proyek serupa di masa depan.
+//# Tips Mengelola Dokumentasi Proyek:
+//? Sentralisasi: Simpan semua dokumen di satu tempat yang mudah diakses.
+//? Organisasi: Gunakan label dan folder untuk mengatur dokumen.
+//? Kontrol Akses: Berikan akses dokumen sesuai kebutuhan.
+//? Pembaruan: Perbarui dokumen secara berkala.
+//~ Opsional: Mempersiapkan diri untuk mencari kerja
+//? https://www.coursera.org/learn/perencanaan-proyek-menyatukan-semuanya/lecture/BzSZZ/mendokumentasikan-pengalaman-dalam-resume

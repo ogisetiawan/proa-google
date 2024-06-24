@@ -577,3 +577,64 @@
 //? Pembaruan: Perbarui dokumen secara berkala.
 //~ Opsional: Mempersiapkan diri untuk mencari kerja
 //? https://www.coursera.org/learn/perencanaan-proyek-menyatukan-semuanya/lecture/BzSZZ/mendokumentasikan-pengalaman-dalam-resume
+
+//! COURSE 4 : Pelaksanaan Proyek Menjalankan Proyek
+//@ Modul 1 - Pengantar Pelaksanaan Proyek
+//~ Pelacakan dan pengukuran kemajuan proyek
+/// Pentingnya pelacakan
+//? Mengukur kinerja proyek secara teratur untuk mengidentifikasi penyimpangan dari rencana proyek dapat membantu memastikan bahwa proyek tetap pada jalurnya.
+//? Penyimpangan adalah sesuatu yang mengubah tindakan awal Anda
+/// Item item umum untuk dilacak
+//? Jadwal proyek: Ini terdiri dari tugas dan aktivitas yang memastikan bahwa proyek secara efektif menuju tanggal penyelesaiannya.
+//? Status item tindakan: Ini membantu memastikan bahwa pekerjaan benar-benar dilakukan
+//? Kemajuan menuju pencapaian: Membuat tugas dan pencapaian membantu menjaga semua orang tetap pada jalurnya
+//? Keputusan utama, perubahan, dependensi, dan risiko: Ini membantu memastikan bahwa tim dan pemangku kepentingan Anda selaras dengan apa yang perlu dilakukan agar proyek berhasil
+/// Metode-metode pelacakan yang berbeda
+//# Ada tiga metode pelacakan utama: diagram Gantt, peta jalan, dan diagram burndown.
+//? Diagram Gantt adalah alat yang paling umum digunakan untuk melacak proyek.
+//? Peta jalan paling cocok digunakan ketika Anda memerlukan cara untuk melacak tonggak besar dalam proyek Anda
+//? Diagram burndown adalah yang paling terperinci dari ketiga metode pelacakan. Diagram burndown mengukur waktu terhadap jumlah pekerjaan yang telah dilakukan dan jumlah pekerjaan yang tersisa.
+/// Pilih metode pelacakan yang tepat untuk proyek Anda
+//? Diagram Gantt berguna untuk: Membantu tim tetap sesuai jadwal, Proyek dengan banyak tugas, ketergantungan, dan milestone (tonggak pencapaian), Proyek dengan tim besar, karena kepemilikan dan tanggung jawab secara eksplisit telah ditata secara visual
+//? Roadmap (Peta jalan); Roadmap berguna untuk: Pelacakan tingkat tinggi dari milestone besar. Roadmap menguraikan proyek secara keseluruhan dan memberikan gambaran keseluruhan tentang poin-poin penting—seperti roadmap (peta jalan) aktual yang berisi tempat menarik dan penanda kilometer. Menggambarkan kepada tim Anda atau pemangku kepentingan utama bagaimana suatu proyek harus berkembang dari waktu ke waktu
+//? Diagram Burndown; Diagram Burndown mengungkapkan seberapa cepat tim Anda bekerja dengan menampilkan berapa banyak pekerjaan yang tersisa dan berapa banyak waktu yang tersisa untuk menyelesaikan pekerjaan itu
+/// Laporan-laporan status proyek
+//? Laporan status proyek memberikan gambaran umum tentang semua elemen umum proyek dan memotret semuanya sebagai rangkuman. Laporan ini adalah alat komunikasi yang efisien untuk menyampaikan status terbaru di satu tempat untuk tim dan pemangku kepentingan.
+//? contoh: https://www.coursera.org/learn/pelaksanaan-proyek-menjalankan-proyek/supplement/OSBtK/laporan-laporan-status-proyek
+//~ Mengelola perubahan, risiko, dan ketergantungan 
+/// Mengapa risiko dan perubah terjadi
+//? Risiko adalah peristiwa potensial yang dapat terjadi dan memengaruhi proyek Anda.
+//? Perubahan adalah sesuatu yang mengubah atau memengaruhi tugas, struktur, atau proses dalam suatu proyek (Mengubah prioritas, tim resign, lingkup)
+/// Mengidentifikasi dan melacak ketergantungan
+//? yang merupakan hubungan antara dua atau lebih tugas proyek di mana penyelesaian satu tugas bergantung pada dimulainya tugas lainnya
+//# berbagai jenis ketergantungan, termasuk:
+//? Ketergantungan wajib: Tugas yang diwajibkan secara hukum atau kontrak.
+//? Ketergantungan diskresioner: Tugas yang dapat terjadi sendiri, tetapi tim melihat kebutuhan untuk membuat ketergantungan tersebut bergantung satu sama lain.
+//# Untuk mengejar manajemen ketergantungan yang efektif, ada empat langkah penting yang dapat diambil oleh seorang manajer proyek
+//? Identifikasi yang tepat: Seorang manajer proyek harus melakukan brainstorming semua kemungkinan ketergantungan proyek dengan tim mereka dan mengkategorikannya
+//? Daftar risiko harus dibuat. Daftar risiko adalah tabel atau bagan yang berisi daftar risiko dan ketergantungan Anda. Daftar risiko harus mencakup deskripsi ketergantungan, tanggal, dan semua aktivitas atau tugas
+//? Pemantauan dan pengendalian berkelanjutan: Ini berarti Anda ingin menjadwalkan pertemuan rutin untuk memeriksa tugas-tugas yang saling terkait
+//? Komunikasi yang efisien: Menjaga tim proyek dan pemangku kepentingan tetap mendapatkan informasi terbaru
+/// Teknik untuk membantu mengelola risiko
+//? Risiko adalah ketidakpastian yang dapat berdampak positif atau negatif pada proyek
+//? Manajemen risiko adalah proses mengidentifikasi, menilai, dan menanggapi risiko potensial untuk meminimalkan dampak negatifnya pada proyek.
+//#Teknik manajemen risiko meliputi:
+//? Identifikasi risiko: Menemukan dan mendefinisikan risiko potensial yang dapat memengaruhi proyek.
+//? Penilaian risiko: Menentukan kemungkinan dan dampak dari setiap risiko.
+//? Tanggapan risiko: Mengembangkan rencana untuk menanggapi risiko yang diidentifikasi.
+//# Pendaftaran risiko: Daftar risiko yang diidentifikasi, bersama dengan kemungkinan dan dampaknya.
+//? Paparan risiko: Ukuran potensi kerugian di masa mendatang yang dihasilkan dari aktivitas atau peristiwa tertentu.
+//? Teknik ROAM: Metode untuk mengelola tindakan setelah risiko muncul.
+//~ Mengomunikasikan masalah kepada pemangku kepentingan]
+/// Melakukan eskalasi risiko
+//? proses meminta bantuan dari pimpinan proyek atau manajemen tingkat yang lebih tinggi untuk mengatasi hambatan
+//# Kapan Melakukan Eskalasi:
+//? pada tanda pertama masalah kritis dalam proyek (waktu, anggaran, dan ruang lingkup, adalah sesuatu yang harus dieskalasi)
+/// Menulis email eskalasi yang efektif
+//# Email eskalasi yang efektif:
+//? Pertahankan nada ramahl; Pertimbangkan untuk membuka email Anda dengan niat baik, seperti “.” Saat menggambarkan masalah ini, gunakan nada yang menyalahkan. Yang terpenting, jaga agar email tetap ramah dan profesional
+//? Nyatakan hubungan Anda ke proyek ; Perkenalkan diri Anda di awal email jika Anda kurang akrab dengan pemangku kepentingan proyek it
+//? jelaskan masalahnya; Berikan konteks yang cukup bagi pembaca untuk memahami masalah ini, tetapi usahakan untuk menjaga pesan Anda sesingkat mungkin
+//? Jelaskan konsekuensinya;  secara spesifik bagaimana masalah ini berdampak negatif pada proyek
+//? Buat/ajukan permintaan; Di bagian ini, Anda mengusulkan solusi (atau beberapa solusi) dan menyatakan apa yang Anda butuhkan dari si penerima (bagaimana mereka dapat membantu dan mendukung)
+

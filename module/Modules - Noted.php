@@ -578,6 +578,7 @@
 //~ Opsional: Mempersiapkan diri untuk mencari kerja
 //? https://www.coursera.org/learn/perencanaan-proyek-menyatukan-semuanya/lecture/BzSZZ/mendokumentasikan-pengalaman-dalam-resume
 
+
 //! COURSE 4 : Pelaksanaan Proyek Menjalankan Proyek
 //@ Modul 1 - Pengantar Pelaksanaan Proyek
 //~ Pelacakan dan pengukuran kemajuan proyek
@@ -638,3 +639,135 @@
 //? Jelaskan konsekuensinya;  secara spesifik bagaimana masalah ini berdampak negatif pada proyek
 //? Buat/ajukan permintaan; Di bagian ini, Anda mengusulkan solusi (atau beberapa solusi) dan menyatakan apa yang Anda butuhkan dari si penerima (bagaimana mereka dapat membantu dan mendukung)
 
+//@ Modul 2 - Manajemen kualitas dan perbaikan berkelanjutan
+//~ Memahami manajemen kualitas
+/// Konsep-konsep utama manajemen kualitas
+//? Kualitas adalah ketika Anda memenuhi persyaratan yang telah ditentukan untuk kiriman dan memenuhi atau melampaui kebutuhan atau harapan pelanggan Anda.
+//? Manajemen kualitas adalah proses pengawasan kualitas di semua fase proyek untuk memastikan bahwa proyek tersebut memenuhi standar kualitas
+//# 4 konsep utama manajemen kualitas
+//? Standar kualitas: Persyaratan, spesifikasi, atau pedoman yang dapat digunakan untuk memastikan bahwa produk, proses, atau layanan sesuai
+//? Perencanaan kualitas: Tindakan yang diambil oleh manajer proyek atau tim untuk menetapkan dan menjalankan proses untuk mengidentifikasi dan menentukan standar kualitas mana yang sebenarnya relevan dengan proyek secara keseluruhan, dan bagaimana memenuhinya.
+//? Jaminan kualitas (QC): Mengevaluasi apakah proyek Anda bergerak ke arah pengiriman layanan atau produk berkualitas tinggi
+//? Kontrol kualitas (QA): Teknik yang digunakan untuk memastikan standar kualitas ketika masalah diidentifikasi, atau jika rencana kualitas tidak dijalankan dengan cara yang diinginkan
+/// Mengukur Kepuasan Pelanggan
+//# Tujuan:
+//? Memahami pentingnya mendengarkan umpan balik pelanggan.(Survei Umpan Balik)
+//? Mempelajari metode umum untuk mengukur kepuasan pelanggan (dengan UAT)
+//# Agenda UAT (User Acceptance Test):
+//? Menyambut pengguna dan berterima kasih atas partisipasinya.
+//? Mempresentasikan produk.
+//? Memulai pengujian UAT.
+//? Mengumpulkan umpan balik dari pengguna.
+//? Mengidentifikasi kasus-kasus khusus.
+//? Merangkum temuan, mengidentifikasi bug, dan memprioritaskan masalah.
+/// Pengujian penerimaan pengguna (user acceptance testing): Sasaran, praktik terbaik, dan manajemen
+//? UAT adalah pengujian yang membantu perusahaan memastikan bahwa suatu produk, layanan, atau proses berfungsi untuk penggunanya
+//# Mengelola UAT yang efektif: 
+//? Tentukan dan tuliskan kriteria penerimaan Anda; persyaratan yang telah ditetapkan sebelumnya yang harus dipenuhi oleh suatu produk, layanan, atau proses
+//? Buat kasus uji untuk setiap item yang Anda uji. Kasus uji (test case); adalah urutan langkah-langkah dan hasil-hasil yang diharapkan
+//? Tulis skrip UAT berdasarkan cerita pengguna; penjelasan informal dan umum tentang fitur yang ditulis dari perspektif pengguna akhir
+//? Berkomunikasi dengan pengguna dan memberi tahu mereka apa yang diharapkan
+//? Persiapkan lingkungan pengujian untuk UAT; Pastikan pengguna memiliki kredensial dan akses yang tepat
+//? Berikan rencana langkah demi langkah untuk membantu memandu pengguna melalui proses pengujian;  Anda dapat membuat rencana ini dalam dokumen digital atau spreadsheet dan membagikannya sebelumnya
+//? Kompilasi catatan dalam satu dokumen dan catat setiap masalah yang ditemukan
+//# Mengelola umpan balik UAT
+//? Bug atau masalah: masalah teknis pada suatu sistem/prosess
+//? Permintaan perubahan; Jenis permintaan atau perubahan ini juga harus dikelola dan diprioritaskan, jika berat bisa dikomunikasikan ke pada skateholder
+//~ Mengupayakan perbaikan dan berkelanjutan
+/// Kerangka kerja perbaikan berbasis data
+//? teknik yang digunakan untuk membuat keputusan berdasarkan data aktual.
+//? DMAIC adalah singkatan dari define, measure, analyze, improve, and control, dan memetakan lima langkah yang dapat Anda ambil saat bekerja menuju perbaikan berkelanjutan.
+//? PDCA adalah proses empat langkah yang berfokus pada mengidentifikasi masalah, memperbaiki masalah itu, menilai apakah perbaikan itu berhasil, dan menyempurnakan perbaikan akhir.
+/// Membedakan proyek dari program
+//? Proyek adalah usaha yang berfokus tunggal dan berjangka pendek,
+//? Program adalah sekumpulan proyek yang berfokus pada tujuan bisnis jangka panjang.
+//? Portofolio adalah kumpulan proyek dan program di seluruh organisasi
+//? Manajer proyek mengawasi proyek individual dan memiliki hasil jangka pendek yang konkret
+//? Manajer program mengawasi kelompok proyek dan berfokus pada tujuan bisnis jangka panjang
+//? Manajer portofolio mengawasi pengelompokan proyek dan program dan memberikan manajemen terpusat kepada mereka.
+//~ Menggunakan retrospektif untuk keberhasilan proyek
+/// Tujuan Retrospektif
+//? Retrospektif adalah lokakarya atau pertemuan yang memberi tim proyek waktu untuk merefleksikan sebuah proyek
+//? Retrospektif memberi Anda kesempatan untuk membahas keberhasilan dan kemunduran yang terjadi dalam proyek atau fase
+//# Retrospektif melayani tiga tujuan utama
+//? Pertama, mereka mendorong pembangunan tim, karena mereka memungkinkan anggota tim untuk memahami perspektif yang berbeda dalam tim mereka\
+//? Kedua, mereka memfasilitasi peningkatan kolaborasi pada proyek-proyek mendatang.
+//? Ketiga, mereka mempromosikan perubahan positif dalam prosedur dan proses di masa mendatang.
+//? Penekanan dalam retrospektif adalah pada peningkatan dan perubahan berkelanjutan, alih-alih mendaur ulang kebiasaan, prosedur, dan proses lama—dan berpotensi buruk.
+/// Melakukan Retrospektif
+//? Tidak ada satu formula atau templat pasti untuk melakukan retrospektif. Setiap tim belajar, beradaptasi, dan tumbuh secara berbeda.
+//? Tujuan retrospektif adalah untuk mendorong peningkatan dan mempersiapkan tim untuk proyek mendatang.
+//? Identifikasi pelajaran yang dipetik dan bagaimana menerapkannya di proyek mendatang.
+//? Buat daftar tindakan yang harus diambil berdasarkan pelajaran yang dipetik
+
+//@ Modul 3 - Pengambil keputusan berdasarkan data
+//~ Mengumpulkan data untuk suatu proyek
+/// Manfaat Data
+//? Data adalah kumpulan fakta atau informasi yang dapat digunakan untuk membuat keputusan dan prediksi
+//? Sebagai manajer proyek, Anda dapat menggunakan data untuk memahami kinerja proyek Anda, mengidentifikasi area untuk perbaikan, dan membuat keputusan yang lebih baik.
+/// Jenis data proyek yang umum
+//? Metrik produktivitas mengukur kemajuan dan keluaran dari waktu ke waktu. Contoh metrik produktivitas termasuk tonggak, tugas, proyeksi, dan durasi
+//? Metrik kualitas berkaitan dengan pencapaian hasil yang dapat diterima. Contoh metrik kualitas termasuk jumlah perubahan, masalah, dan varians biaya
+/// Metrik data yang umum untuk manajemen proyek
+//? Data adalah angka-angka dan umpan balik yang tersedia bagi Anda mengenai berbagai aspek proyek Anda
+//? Metrik adalah cara Anda mengukur data. Metrik mendefinisikan informasi (data) penting atau spesifik yang perlu diketahui tentang proyek Anda, seperti produktivitas, kualitas, atau keterlibatan
+//? Analitik: menganalisis data sesuai dengan metrik tersebut untuk menemukan pola dan menjawab pertanyaan tentang proyek tersebut
+//? Metrik produktivitas dapat digunakan untuk mengukur kemajuan dan efisiensi tim proyek.
+//? Metrik kualitas dapat digunakan untuk mengukur pencapaian hasil yang dapat diterima.
+//? Metrik adopsi dan keterlibatan dapat digunakan untuk mengukur seberapa baik suatu produk, layanan, atau proses diterima dan digunakan.
+//~ Memprioritaskan dan menganalisa data
+/// Cara Membedakan Data Penting
+//# Cara Membedakan Data Penting
+//? Perhatikan produktivitas dan hasil tim Anda. Identifikasi tugas mana yang paling berkontribusi pada tujuan keseluruhan
+//? Prioritaskan data atau metrik yang paling berharga bagi pemangku kepentingan. Misalnya, jika pemangku kepentingan Anda lebih peduli tentang memenuhi tenggat waktu daripada anggaran, Anda harus fokus pada data yang terkait dengan waktu dan ruang lingkup daripada anggaran
+//? Gunakan sinyal untuk mengidentifikasi masalah potensial. Sinyal adalah perubahan yang dapat diamati yang dapat membantu Anda menentukan kesehatan proyek Anda secara keseluruhan dan mengidentifikasi tanda-tanda awal bahwa ada sesuatu yang tidak beres
+//? Dengan menggunakan sinyal, fokus pada tugas yang memiliki dampak terbesar pada tujuan proyek, dan selaras dengan prioritas pemangku kepentingan Anda, Anda dapat memprioritaskan tugas yang tepat dan meningkatkan peluang keberhasilan proyek Anda.
+/// Mempertimbangan etika data
+//? Etika data adalah studi dan evaluasi tantangan moral yang berkaitan dengan pengumpulan dan analisis data.
+//# Prinsip-prinsip etika data:
+//? Privasi data: Menangani data dengan tepat, termasuk tujuan pengumpulan dan pemrosesan data, preferensi privasi, cara organisasi mengelola data pribadi, dan hak-hak individu.
+//? Bias data: Memastikan bahwa data yang dikumpulkan tidak mengindikasikan adanya bias. Bias dapat terjadi karena berbagai faktor, seperti sampel yang tidak mewakili populasi, pengamat yang berbeda, interpretasi yang berbeda, dan pengumpulan data yang tidak tepat.
+//# Jenis-jenis bias:
+//? Bias pengambilan sampel
+//? Bias pengamat
+//? Bias interpretasi
+//? Bias konfirmasi
+/// Menggunakan analisis data sebagai informasi dalam pengambilan keputusan
+//? Analisis data digunakan untuk memecahkan masalah, membuat keputusan yang tepat, dan mendukung tujuan.
+//? Bisnis menggunakan analisis data untuk mengungkap wawasan dan pola penting dalam data mereka yang membantu menginformasikan tindakan dan mendorong hasil.
+//? Dalam manajemen proyek, Anda akan menggunakan data kualitatif dan kuantitatif untuk menginformasikan keputusan, membuat peningkatan, dan berbagi wawasan.
+/// Enam langkah analisis data
+//? Bertanya: Ajukan pertanyaan penting untuk membantu membingkai analisis Anda.
+//? Mempersiapkan: Kumpulkan dan simpan data yang akan digunakan untuk proses analisis.
+//? Memproses: Bersihkan data Anda dengan menghapus data yang tidak konsisten dan tidak akurat.
+//? Menganalisis: Amati data untuk menarik kesimpulan, membuat prediksi, dan memutuskan langkah selanjutnya.
+//? Membagikan: Gunakan visualisasi data untuk mengomunikasikan temuan Anda kepada orang lain.
+//? Bertindak: Terapkan temuan Anda untuk menyelesaikan masalah atau membuat keputusan.
+//~ Menyajikan dan memvisualisasikan data
+/// Menyajikan Data untuk Menyampaikan Cerita Proyek
+//# Langkah - langkah 
+//? Tentukan audiens: Ketahui siapa yang akan Anda presentasikan dan apa yang penting bagi mereka.
+//? Kumpulkan data: Cari data dari sumber yang terpercaya untuk mendukung poin Anda.
+//? Filter dan analisis data: Pastikan data Anda kredibel dan relevan dengan cerita Anda.
+//? Pilih representasi visual: Gunakan visualisasi seperti diagram, grafik, dan peta untuk membantu audiens memahami data.
+//? Bentuk cerita: Gabungkan data yang telah dianalisis dan visualisasikan ke dalam narasi yang kohesif.
+//? Kumpulkan feedback: Dapatkan feedback dari orang lain sebelum presentasi untuk memastikan cerita Anda jelas dan mudah dipahami.
+/// Alat visualisasi data
+//? Visualisasi data adalah representasi grafis dari informasi untuk memudahkan pemahaman.
+//# Berikut adalah beberapa jenis visualisasi data yang umum digunakan oleh manajer proyek:
+//? Dasbor: Dasbor adalah jenis antarmuka pengguna, biasanya berupa grafik atau bagan ringkasan, yang memberikan gambaran sekilas tentang kemajuan atau kinerja proyek Anda.
+//? Bagan pembakaran: Bagan pembakaran adalah diagram garis yang mengukur waktu terhadap jumlah pekerjaan yang dilakukan dan jumlah pekerjaan yang tersisa.
+//? Diagram kolom: Diagram kolom berguna untuk membandingkan aktivitas yang berbeda atau membandingkan kemajuan dari waktu ke waktu.
+//? Diagram lingkaran: Diagram lingkaran berguna saat menunjukkan komposisi sesuatu atau hubungan bagian-ke-keseluruhan.
+//? Infografis: Infografis adalah representasi visual dari informasi, seperti data atau fakta, dan biasanya dalam bentuk apa yang kita sebut di Google sebagai "satu halaman" atau "satu lembar".
+//~ Menyajikan dan memvisualisasikan data
+/// Teknik presentasi yang efektif
+//? Tentukan poin-poin utama Anda. Identifikasi masalah yang Anda pecahkan untuk audiens Anda dan singkirkan konten apa pun yang melemahkan narasi Anda.
+//? Bersiaplah untuk menyesuaikan diri. Fleksibilitas adalah bagian besar dari pekerjaan Anda sebagai manajer proyek
+//? Jadilah berkesan. Kembangkan strategi yang membantu membuat narasi Anda tak terlupakan. Pikirkan kembali penceritaan yang efektif. Ini adalah titik di mana Anda ingin mengikat analisis data Anda, visualisasi yang efektif, dan memberikan sentuhan akhir pada narasi Anda untuk menyatukan semuanya. Gunakan cerita atau sertakan pengulangan untuk membantu audiens Anda mengingat informasi ke depan.
+/// Menyampaikan presentasi yang efektif
+//? Perjelas sasaran dan tujuan presentasi Anda;  susunlah diskusi untuk mencapai tujuan tersebut
+//? Carilah masukan dan tetapkan ekspektasi; Tanyakan kepada manajer atau pemangku kepentingan Anda mengenai tujuan presentasi Anda
+//? Buat rencana penyampaian; Tentukan judul untuk setiap slide, yakni satu kalimat berisi poin utama yang ingin Anda gambarkan dengan slide
+//? Perhatikan waktu audiens Anda; Kirimkan materi presentasi Anda sebelumnya, jika memungkinkan.
+//? Kembangkan strategi untuk membuat presentasi Anda mudah diingat; Mulailah dengan pengantar yang baik. Luangkan waktu tambahan untuk persiapan di awal presentasi. Biasanya Anda akan merasa gugup ketika memulai, dan menyampaikan perkenalan diri dengan baik dapat membantu Anda segera mendapatkan kepercayaan diri

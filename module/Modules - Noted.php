@@ -771,3 +771,83 @@
 //? Buat rencana penyampaian; Tentukan judul untuk setiap slide, yakni satu kalimat berisi poin utama yang ingin Anda gambarkan dengan slide
 //? Perhatikan waktu audiens Anda; Kirimkan materi presentasi Anda sebelumnya, jika memungkinkan.
 //? Kembangkan strategi untuk membuat presentasi Anda mudah diingat; Mulailah dengan pengantar yang baik. Luangkan waktu tambahan untuk persiapan di awal presentasi. Biasanya Anda akan merasa gugup ketika memulai, dan menyampaikan perkenalan diri dengan baik dapat membantu Anda segera mendapatkan kepercayaan diri
+
+//@ Modul 4 - Keterampilan kepemimpinan dan memegaruhi
+//~ Mengembangkan tim yang efektif
+/// pentingnya kerja sama tim dalam proyek:
+//? Definisi tim: Sekelompok orang yang merencanakan, memecahkan masalah, membuat keputusan, dan meninjau kemajuan untuk mencapai tujuan atau proyek tertentu. Anggota tim saling bergantung untuk menyelesaikan pekerjaan.
+//? Perbedaan antara tim dan kelompok kerja: Tim berfokus pada tujuan bersama dan saling bergantung, sedangkan kelompok kerja berfokus pada tugas yang diberikan dan dikoordinasikan oleh satu orang atau entitas.
+//? Manfaat kerja sama tim: Meningkatkan kreativitas, mendorong akuntabilitas, dan membantu menyelesaikan pekerjaan.
+//? Tugas manajer proyek: Mendorong kerja sama tim untuk meningkatkan kreativitas, mendorong akuntabilitas, dan menyelesaikan pekerjaan.
+//? Kerja sama tim adalah cara kerja kolaboratif yang efektif: Ketika dilakukan dengan benar, dapat berdampak positif pada hasil tim yang terukur dan budaya tim.
+/// Faktor-faktor yang memengaruhi efektivitas tim
+//? Keamanan psikologis: Ini adalah faktor terpenting yang memengaruhi efektivitas tim. Keamanan psikologis mengacu pada keyakinan anggota tim bahwa mereka dapat mengambil risiko tanpa takut dihakimi atau dihukum. Tim dengan keamanan psikologis yang tinggi merasa nyaman untuk mengambil risiko, mencari pendapat yang berbeda, dan menyelesaikan konflik interpersonal
+//? Keandalan: Tim yang andal terdiri dari anggota yang dapat diandalkan dan menyelesaikan pekerjaan tepat waktu. Untuk menciptakan tim yang andal, Anda perlu menetapkan, menegosiasikan, dan memenuhi harapan. Anda perlu mengomunikasikan harapan dengan jelas dan memastikan bahwa tim merasa nyaman untuk bernegosiasi dengan Anda saat dibutuhkan
+//? Struktur dan kejelasan: Struktur dan kejelasan mengacu pada pemahaman anggota tim tentang harapan pekerjaan, pengetahuan tentang cara memenuhi harapan tersebut, dan konsekuensi dari kinerja mereka
+//? Arti: Arti mengacu pada menemukan rasa tujuan baik dalam pekerjaan itu sendiri maupun dalam hasil pekerjaan itu. Misalnya, rekan tim Anda mungkin menemukan makna dalam mendukung diri mereka sendiri secara finansial, membantu tim mencapai tujuannya, atau ingin produk mereka menjangkau komunitas pengguna baru.
+//? Dampak; keyakinan bahwa hasil pekerjaan seseorang penting dan menciptakan perubahan. Mungkin sulit bagi orang untuk memperhatikan bagaimana pekerjaan mereka dapat mengubah seluruh ekosistem ke depan. Sebagian dari peran Anda sebagai manajer proyek adalah membantu anggota tim individu mengidentifikasi bagaimana mereka mendorong dampak baik di dalam tim maupun di luarnya. Pelacakan proyek dapat menjadi alat yang membantu untuk memvisualisasikan kemajuan dan dampak. Misalnya, pencapaian tonggak sejarah menunjukkan kepada tim bagaimana tugas masing-masing berkontribusi pada tujuan proyek yang lebih besar.
+//~ Kepemimpinan proyek yang efektif
+/// Membangun Tim Berkinerja Tinggi
+//? Menciptakan Sistem:Buat, terapkan, dan tingkatkan alur kerja dan proses yang terstandardisasi, terukur, berulang, dan terukur untuk tim Anda.
+//? Komunikasi dan Mendengarkan
+//? Mempromosikan Kepercayaan dan Keamanan Psikologis: Tugas Anda adalah menciptakan suasana tim di mana berbagai pendapat diterima, dan semua anggota tetap menghormati satu sama lain selama percakapan yang menantang.
+//? Menunjukkan Empati dan Menciptakan Motivasi: Selama percakapan satu lawan satu, hindari membuat asumsi tentang apa yang dipikirkan dan dirasakan orang lain
+//? Menugaskan Tanggung Jawab dan Memprioritaskan: menjaga tim tetap fokus dan menuju tujuan dan hasil proyek.
+//? Merayakan Keberhasilan Tim; Merayakan kesuksesan adalah alat penting untuk memotivasi tim karena meningkatkan moral dan meningkatkan keterlibatan tim.
+/// Perlindunagan udara
+//? Perlindungan udara adalah tindakan mendukung dan melindungi tim Anda dari permintaan di luar ruang lingkup atau kritik dari pimpinan
+//# Manfaat Memberikan Perlindungan Udara:
+//? Meningkatkan fokus dan produktivitas tim
+//? Meningkatkan moral dan kepercayaan tim
+//? Membangun hubungan yang lebih kuat dengan tim
+//? Meningkatkan peluang keberhasilan proyek
+//# Cara Memberikan Perlindungan Udara:
+//? Katakan "tidak" dengan halus: Jelaskan dengan sopan mengapa permintaan tidak dapat dipenuhi dengan batasan saat ini.
+//? Tawarkan solusi alternatif: Berikan opsi lain yang dapat diterima tim Anda.
+//? Intervensi dari balik layar: Tangani permintaan atau kritik dari pemangku kepentingan secara pribadi tanpa melibatkan tim Anda.
+//? Bangun hubungan yang kuat dengan pemangku kepentingan: Dapatkan kepercayaan dan pemahaman mereka untuk mendukung keputusan Anda.
+/// Pengembangan tim dan mengelola dinamika tim
+//? Forming (Pembentukan): Tim baru terbentuk, anggota saling mengenal dan bersemangat memulai proyek.
+//? Storming (Penyerbuan/curah pendapat): Tim mulai bekerja, konflik muncul karena perbedaan pendapat dan proses yang tidak efisien.
+//? Norming (Penormaan/Kesepaktan): Tim menyelesaikan konflik dan menetapkan norma kerja yang efektif.
+//? Performing (Pelaksanaan): Tim bekerja sama dengan lancar untuk mencapai tujuan proyek.
+//? Adjourning (Penangguhan): Proyek selesai, tim dibubarkan.
+//# Mengelola Dinamika Tim:
+//? Memahami tahapan pengembangan tim: Membantu Anda menyesuaikan gaya manajemen sesuai kebutuhan tim.
+//? Menciptakan lingkungan kolaboratif dan aman: Meningkatkan motivasi dan produktivitas tim.
+//? Memperjelas tujuan, peran, dan tanggung jawab: Memastikan tim bekerja secara efektif dan efisien.
+//? Mendorong komunikasi terbuka dan umpan balik: Membangun kepercayaan dan menyelesaikan konflik secara konstruktif.
+//? Merayakan keberhasilan tim: Meningkatkan moral dan motivasi tim.
+//# Manfaat Mengelola Dinamika Tim:
+//? Meningkatkan produktivitas dan efisiensi tim.
+//? Meningkatkan kualitas keputusan dan solusi.
+//? Meningkatkan kepuasan dan motivasi anggota tim.
+//? Mengurangi konflik dan meningkatkan kolaborasi.
+//? Meningkatkan keberhasilan proyek.
+/// Mendelegasikan detail-detailnya
+//? Delegasi adalah kunci untuk manajemen proyek yang efektif. Sebagai manajer proyek, Anda tidak dapat melakukan semuanya sendiri. Anda perlu mendelegasikan tugas kepada orang lain
+//? Temukan pakar materi pelajaran atau orang-orang yang senang melakukan tugas tertentu. Ini akan membantu Anda memastikan bahwa tugas tersebut diselesaikan oleh orang yang tepat
+//? Berikan dukungan dan bimbingan kepada orang-orang yang Anda delegasikan. Ini akan membantu mereka berhasil dalam tugas mereka dan merasa percaya diri
+//? Buat lingkungan yang aman secara psikologis di mana orang merasa nyaman untuk berbicara. Ini akan membantu Anda mendapatkan beragam pemikiran dan ide
+//? Delegasi dapat membantu Anda fokus pada gambaran yang lebih besar, , Anda akan memiliki lebih banyak waktu untuk fokus pada aspek-aspek penting lainnya d
+/// Kepemimpinan yang Beretika dan Inklusif
+//? Kepemimpinan yang Beretika; Mempromosikan dan menghargai kejujuran, keadilan, rasa hormat, komunitas, dan integritas
+//? Kepemimpinan yang Inklusif: Menghargai, dan mengintegrasikan identitas, latar belakang, dan pengalaman unik setiap orang ke dalam cara tim beroperasi.
+/// Kerangka Kerja Pengambilan Keputusan yang Beretika
+//? Kenali masalah etika: Apakah keputusan Anda berdampak negatif pada seseorang atau kelompok lain?  Apakah masalahnya melampaui apa yang dianggap legal atau efisien
+//? Kumpulkan fakta: Konsultasikan dengan orang yang tepat untuk mempertimbangkan semua opsi yang tersedia
+//? Evaluasi tindakan alternatif: Opsi mana yang akan memberikan hasil terbaik dan paling tidak membahayakan?
+//? Buat keputusan dan ujilah: ayangkan reaksi terhadap pilihan Anda dari seseorang yang pendapatnya Anda hargai
+//? Bertindak dan renungkan hasilnya: Pikirkan bagaimana melaksanakan keputusan Anda dengan penuh pertimbangan serta perhatian.
+/// Langkah-langkah untuk memengaruhi secara efektif
+//# Empat Langkah Mempengaruhi:
+//? Membangun Kredibilitas: Tunjukkan keahlian Anda di bidang yang relevan. Bangun hubungan baik dengan menunjukkan kejujuran dan kepercayaan.
+//? Menemukan Kesamaan: Pahami nilai-nilai audiens Anda. Jelaskan bagaimana ide Anda dapat bermanfaat bagi mereka.
+//? Menyediakan Bukti: Gunakan data dan cerita yang persuasif untuk mendukung ide Anda. Tunjukkan hasil positif dari ide Anda.
+//? Membangun Koneksi Emosional: Tunjukkan komitmen Anda terhadap ide Anda. Sesuaikan dengan emosi audiens Anda.
+//# Kesalahan Umum yang Harus Dihindari:
+//? Terlalu Agresif: Hindari memaksakan ide Anda.
+//? Menolak Kompromi: Bersiaplah untuk bernegosiasi dan menemukan solusi yang saling menguntungkan.
+//? Terlalu Fokus pada Argumen: Luangkan waktu untuk membangun kredibilitas dan koneksi emosional.
+//? Mengharapkan Kesepakatan Segera: Bersiaplah untuk membangun hubungan dan kepercayaan secara bertahap.
+/// Menciptakan pernyataan yang memengaruhi secara efektif

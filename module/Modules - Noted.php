@@ -3,7 +3,7 @@
  * @Author: ogi.setiawan 
  * @Date: 2024-05-07 17:28:49 
  * @Last Modified by: ogi.setiawan
- * @Last Modified time: 2024-07-05 12:30:53
+ * @Last Modified time: 2024-07-05 12:31:35
  */
 
 //! COUSER 1 : DASAR DASAR MANAJEMEN PROYEK
@@ -870,3 +870,56 @@
 //? Rapat Pembaruan Status: Rapat rutin untuk menyelaraskan tim tentang pembaruan, kemajuan, tantangan, dan langkah selanjutnya. Membahas status tugas, jadwal, anggaran, masalah, dan tindakan yang perlu diambil, Peserta: anggota tim dan pemangku kepentingan.
 //? Rapat Pemangku Kepentingan: Mendapatkan dukungan dan masukan dari pemangku kepentingan. Membahas tantangan, masalah, dan solusi
 //? Rapat Tinjauan Proyek: Meninjau kemajuan proyek dan merayakan keberhasilan. Membahas pelajaran yang dipetik dan area yang dapat ditingkatkan
+
+//@ Modul 6 - Menutup proyek
+//~ Memahami anggaran proyek
+/// Pentingnya penutupan proyek
+//? pentutupan adalah proses formal untuk menyelesaikan proyek, fase saat ini, dan kewajiban kontrak.
+//? Penutupan proyek penting karena memastikan bahwa tidak ada yang terlewat.
+//? Ada dua jenis proyek yang harus Anda ketahui dan hindari: proyek yang tidak pernah berakhir (tenggat waktu yang tidak jelas, tugas-tugas yang didelegasikan kepada anggota tim yang salah) dan proyek yang ditinggalkan.
+//# Anda harus memastikan:
+//? Semua pekerjaan selesai.
+//? Proses manajemen proyek yang disepakati telah dilaksanakan.
+//? Anda telah menerima pengakuan dan persetujuan formal dari pemangku kepentingan utama bahwa proyek telah selesai.
+/// Proses Penutupan untuk Klien dan Pemangku Kepentingan
+//? Penutupan yang baik dapat meningkatkan kredibilitas tim proyek dan memperkuat hubungan dengan klien dan pemangku kepentingan.
+//# Jenis Penutupan Proyek
+//? Penutupan kecil di akhir setiap milestone: Cocok untuk milestone yang final dan tidak akan diubah lagi di kemudian hari.
+//? Penutupan formal di akhir proyek: Cocok untuk proyek yang kompleks atau memiliki banyak milestone.
+//# Penutupan di akhir proyek:
+//? Sediakan pelatihan, dokumentasi, dan kemampuan yang diperlukan untuk menggunakan produk atau layanan
+//? Pastikan proyek telah memenuhi tujuan dan hasil yang diinginkan.
+//? Dapatkan dokumentasi penerimaan dari semua pemangku kepentingan.
+//? Tinjau semua kontrak dan dokumentasi dengan tim proyek.
+//? Lakukan retrospektif formal dengan tim, pemangku kepentingan, dan vendor.
+//? Bubarkan dan ucapkan terima kasih kepada tim proyek.
+/// Menunjukkan Dampak Proyek kepada Pemangku Kepentingan
+//? Pelaporan dampak adalah presentasi atau laporan formal yang disiapkan untuk pemangku kepentingan utama di akhir proyek.
+//? Laporan dampak harus disajikan dengan ringkas, mudah dipahami, dan menggunakan visual yang menarik.
+//? Pelaporan dampak dapat membantu pemangku kepentingan memahami dampak proyek dan nilai/manfaat yang dibawa untuk organisasi.
+//? Tujuan: Menunjukkan bagaimana cara mengukur dan menyajikan dampak proyek.
+//? Pelaporan dampak adalah presentasi atau laporan formal yang disiapkan untuk pemangku kepentingan utama di akhir proyek.
+//# Laporan dampak harus mencakup:
+//? Tujuan dan sasaran proyek.
+//? KPI (Key Performance Indicator) yang digunakan untuk mengukur keberhasilan proyek.
+//? Hasil yang dicapai proyek.
+//? Metrik yang menunjukkan dampak positif proyek.
+//? Pelajaran yang dipelajari selama proyek.\
+/// Proses Penutupan Tim
+//? Manfaat Retrospektif: Retrospektif adalah pertemuan yang bertujuan untuk membahas keberhasilan, kegagalan, dan kemungkinan peningkatan pada proyek. Retrospektif mendorong pembangunan tim, memfasilitasi peningkatan kolaborasi pada proyek mendatang, dan mempromosikan perubahan positif dalam prosedur
+//? Menutup Proyek dengan Tim Anda: Merefleksikan adalah cara yang bagus untuk mempelajari praktik mana yang harus Anda terus lakukan dan mana yang dapat Anda tingkatkan
+//? Merayakan Keberhasilan: Bagian dari mendorong pertumbuhan yang berkelanjutan adalah dengan mengakui dan merayakan pekerjaan yang dilakukan dengan baik
+/// Proses penutupan untuk manajer proyek
+//? Pentingnya Penutupan Proyek: Penutupan memberikan kesempatan untuk merefleksikan kinerja Anda dan tim Anda.
+//# Dokumentasi yang Diperlukan:
+//? bertujuan untuk Memberikan evaluasi kualitas pekerjaan
+//? bermanfaat untuk Sebagai cetak biru untuk proyek mendatang. Mengurangi waktu yang Anda habiskan untuk menjawab pertanyaan.
+//? Bagian yang Diperlukan; Ringkasan eksekutif, Daftar pencapaian utama, Informasi penting tentang jadwal dan tenggat waktu dll
+/// Mengeksplorasi: Proses penutupan
+//? Kumpulkan dokumentasi penutupan; okumen-dokumen ini mewakili konsensus tim mengenai apa yang berjalan dengan baik dan apa yang perlu ditingkatkan.
+//? Lihat dokumentasi sebelumnya; Tinjau kembali surat pernyataan kerja untuk adegan terkait, serta daftar risiko dan rencana proyek. Periksa apakah tim Anda menyelesaikan setiap tugas yang diberikan kepada mereka, dan
+//? Selesaikan semua pekerjaan tindak lanjut yang diperlukan; Pastikan tim Anda menindaklanjuti item tindakan yang Anda buat selama retrospektif
+//? Pastikan semua pemangku kepentingan menyadari bahwa fase ini akan berakhir; Tulis email ke semua pemangku kepentingan untuk memberi tahu mereka bahwa Anda sudah selesai dengan adegan itu
+//? Melakukan penutupan administrasi untuk proses pengadaan; Adegan membutuhkan beberapa vendor khusus dan saatnya untuk menutup kontrak dan membayar mereka
+
+

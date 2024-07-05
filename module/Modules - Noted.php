@@ -3,7 +3,7 @@
  * @Author: ogi.setiawan 
  * @Date: 2024-05-07 17:28:49 
  * @Last Modified by: ogi.setiawan
- * @Last Modified time: 2024-05-15 17:05:16
+ * @Last Modified time: 2024-07-05 12:30:53
  */
 
 //! COUSER 1 : DASAR DASAR MANAJEMEN PROYEK
@@ -850,4 +850,23 @@
 //? Menolak Kompromi: Bersiaplah untuk bernegosiasi dan menemukan solusi yang saling menguntungkan.
 //? Terlalu Fokus pada Argumen: Luangkan waktu untuk membangun kredibilitas dan koneksi emosional.
 //? Mengharapkan Kesepakatan Segera: Bersiaplah untuk membangun hubungan dan kepercayaan secara bertahap.
-/// Menciptakan pernyataan yang memengaruhi secara efektif
+
+//@ Modul 5 - Komunikasi proyek yang efektif
+//~ Tool dan teknik komunikasi
+/// pentingnya kerja sama tim dalam proyek:
+//? Alat komunikasi tim yang efektif: Email dan pesan, Pertemuan tatap muka, Konferensi video,Alat manajemen dan kolaborasi kerja
+/// Prinsip penulisan email yang efektif
+//? Nyatakan apa yang Anda inginkan dengan jelas; Menyertakan permintaan Anda di judul email, Nyatakan permintaan Anda dalam dua paragraf pertama dari email Anda.
+//? Jaga agar konten tetap ringkas; Upayakan untuk menulis email yang "tidak menimbulkan pertanyaan" 
+//? Susun tulisan Anda secara terstruktur; Gunakan poin-poin, Gunakan label, Tulis kalimat topik yang kuat. Tempatkan gagasan utama paragraf dalam kalimat topik. 
+//~ Bagaimana mengatur rapat yang efektif
+//# Elemen Rapat yang Efektif:
+//? Terstruktur; Agenda dengan topik yang diprioritaskan dan diberi batas waktu, Topik diprioritaskan, Pencatat ditunjuk
+//? Intentional: Agenda yang menetapkan harapan yang jelas untuk sebelum dan selama rapat
+//? Kolaboratif; Agenda yang mendorong partisipasi aktif
+//? Inklusif: Menawarkan sumber daya tambahan untuk berpartisipasi (internet, aksesbilitas)
+//~ Jenis Rapat Proyek yang Umum Dilakukan
+//? Rapat Kick-off Proyek; Menandai dimulainya proyek secara resmi, Menyelaraskan pemahaman tim tentang tujuan proyek dengan rencana dan prosedur aktual, Peserta: anggota tim, manajemen senior, dan pemangku kepentingan utama
+//? Rapat Pembaruan Status: Rapat rutin untuk menyelaraskan tim tentang pembaruan, kemajuan, tantangan, dan langkah selanjutnya. Membahas status tugas, jadwal, anggaran, masalah, dan tindakan yang perlu diambil, Peserta: anggota tim dan pemangku kepentingan.
+//? Rapat Pemangku Kepentingan: Mendapatkan dukungan dan masukan dari pemangku kepentingan. Membahas tantangan, masalah, dan solusi
+//? Rapat Tinjauan Proyek: Meninjau kemajuan proyek dan merayakan keberhasilan. Membahas pelajaran yang dipetik dan area yang dapat ditingkatkan

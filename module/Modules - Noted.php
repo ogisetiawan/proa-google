@@ -3,7 +3,7 @@
  * @Author: ogi.setiawan 
  * @Date: 2024-05-07 17:28:49 
  * @Last Modified by: ogi.setiawan
- * @Last Modified time: 2024-07-05 12:31:35
+ * @Last Modified time: 2024-07-09 17:59:57
  */
 
 //! COUSER 1 : DASAR DASAR MANAJEMEN PROYEK
@@ -922,4 +922,228 @@
 //? Pastikan semua pemangku kepentingan menyadari bahwa fase ini akan berakhir; Tulis email ke semua pemangku kepentingan untuk memberi tahu mereka bahwa Anda sudah selesai dengan adegan itu
 //? Melakukan penutupan administrasi untuk proses pengadaan; Adegan membutuhkan beberapa vendor khusus dan saatnya untuk menutup kontrak dan membayar mereka
 
+//! COURSE 5 : Manajemen Proyek agile
+//@ Modul 1 - Dasar dasar Agile
+//~ Pengantar Agile
+/// Sejarah singkat agile
+//? Agile muncul di tahun 1990-an sebagai respon terhadap kebutuhan industri perangkat lunak yang berkembang pesat
+/// Membedakan Agile dan waterfall
+//# Agile
+//? Fleksibilitas: Agile lebih fleksibel dan responsif terhadap perubahan untuk proyek dengan persyaratan yang tidak pasti atau berubah.
+//? Iteratif: Agile bekerja dalam iterasi pendek
+//? Fokus pada pelanggan: Agile berfokus pada memberikan nilai kepada pelanggan dengan memberikan pengiriman yang sering dan melibatkan mereka dalam proses pengembangan
+//? Kerja sama: Agile menekankan kerja sama yang erat antara tim dan pemangku kepentingan.
+//# Waterfall
+//? Terstruktur: Waterfall adalah pendekatan yang lebih terstruktur dan terencana, yang membuatnya ideal untuk proyek dengan persyaratan yang jelas dan stabil.
+//? Sekuensial: Waterfall mengikuti proses linier, di mana setiap tahap harus diselesaikan sebelum tahap berikutnya dapat dimulai.
+//? Dokumentasi: Waterfall membutuhkan lebih banyak dokumentasi daripada Agile
+//? Prediktabilitas: Waterfall lebih mudah diprediksi daripada Agile, karena persyaratan dan jadwal ditetapkan di awal proyek.
+/// Empat Nilai dalam Manifesto Agile
+//? Individu dan Interaksi; Agile menekankan pentingnya komunikasi dan kolaborasi antar anggota tim daripada bergantung pada proses dan alat yang kaku
+//? Perangkat Lunak yang Berfungsi; memprioritaskan pengembangan perangkat lunak yang berfungsi daripada menghabiskan waktu untuk dokumentasi
+//? Kolaborasi Pelanggan; Agile menekankan pentingnya kolaborasi dan umpan balik pelanggan secara berkelanjutan
+//? Menanggapi Perubahan; mengakui bahwa perubahan tidak dapat dihindari dan mendorong tim untuk beradaptasi
+/// 12 prinsip Agile Manifesto dikelompokkan menjadi empat tema:
+//? Pengiriman nilai; Kirimkan perangkat lunak yang berfungsi secara berkala, dari beberapa minggu hingga beberapa bulan.
+//? Kolaborasi bisnis; Kolaborasi bisnis dan pengembang setiap hari sepanjang proyek untuk memastikan fitur yg dimau apa sesuai?
+//? Budaya tim: Bangun proyek di sekitar individu yang termotivasi. Berikan mereka lingkungan dan dukungan yang mereka butuhkan, dan percayai mereka untuk menyelesaikan pekerjaan.
+//? Retrospektif; Bagaimana proyek belajar untuk terus meningkatkan kinerja organisasi dan bisnis
+/// Mengadopsi Pola pikir Manifesto Agile
+//# Manfaat Agile:
+//? Peningkatan kepuasan pelanggan.
+//? Pengembangan software yang lebih cepat dan efisien.
+//? Peningkatan kualitas software.
+//? Peningkatan motivasi dan produktivitas tim.
+//? Peningkatan kemampuan untuk beradaptasi dengan perubahan.
+/// Mengadopsi Pola Pikir Agile
+//? VUCA adalah singkatan dari volatility (volatilitas), uncertainty (ketidakpastian), complexity (kompleksitas), dan ambiguity (ambiguitas). Dalam sebuah proyek yang bergejolak, segala sesuatunya mungkin terlihat tidak pernah berada dalam ritme yang normal.
+//~ Kerangka kerja Agile Popular
+/// Pengantar Scrum
+//? Nama Scrum berasal dari olahraga rugby, di mana para pemain berkumpul dan bekerja sama untuk mendorong bola ke garis gawang
+//? Scrum menggunakan Backlog, daftar prioritas tugas yang harus diselesaikan.
+//? Sprint adalah periode waktu (1-4 minggu) di mana tim bekerja untuk menyelesaikan tugas dari Backlog.
+//? Daily Scrum adalah pertemuan harian selama 15 menit untuk membahas kemajuan dan kendala.
+//? Scrum Master: Memastikan tim mengikuti nilai dan prinsip Agile, serta membantu tim fokus pada pekerjaan mereka.
+//? Product Owner: Bertanggung jawab memaksimalkan nilai produk dan pekerjaan tim, serta memprioritaskan Backlog.
+//? Development Team: Bertanggung jawab untuk menghasilkan produk
+/// Prinsip-prinsip Dasar Scrum
+//? Scrum adalah kerangka kerja yang digunakan untuk mengelola proyek yang kompleks dan adaptif.
+//? Scrum didasarkan pada lima nilai inti: komitmen, keberanian, fokus, keterbukaan, dan rasa hormat.
+//? Scrum terdiri dari tiga pilar: transparansi, inspeksi, dan adaptasi.
+//? Scrum menggunakan beberapa artefak untuk melacak kemajuan proyek: product backlog, sprint backlog, dan increment.
+//? Scrum menggunakan beberapa acara untuk memfasilitasi kolaborasi dan pengambilan keputusan: sprint planning, daily scrum, sprint review, dan sprint retrospective.
+/// Pengantar Kanban, XP, dan Lean
+//? Kanban; Kanban board memberikan visualisasi transparan tentang status pekerjaan., Membatasi pekerjaan yang sedang berlangsung (WIP) untuk memastikan keberlanjutan.
+//? XP (Extreme Programming): Metodologi yang menekankan kualitas produk dan responsif terhadap perubahan kebutuhan pelanggan
+//? Lean: Metodologi yang berfokus pada peningkatan hasil proyek.
+/// Memadukan Pendekatan Manajemen Proyek
+//? Agile: Berfokus pada nilai dan prinsip, fleksibel, iteratif, dan kolaboratif.
+//? Waterfall: Berfokus pada proses yang terstruktur, linier, dan terencana.
+//# Alasan Memadukan Agile dan Waterfall:
+//? Stakeholder lebih nyaman dengan pendekatan tradisional.
+//? Tim proyek sudah terbiasa dengan Scrum.
+//? Integrasi dengan vendor yang menggunakan pendekatan tradisional
+//# Contoh Memadukan Agile dan Waterfall
+//? Scrum dan Kanban: Menggunakan Kanban board untuk melacak kemajuan Sprint.
+//? XP dan Scrum: Memasangkan anggota tim dengan keahlian berbeda untuk membangun fitur bersama.
+/// Model Spotify
+//? Model ini mendorong kolaborasi, produktivitas, dan otonomi.
+//? Model ini menggunakan sistem organisasi unik yang menampilkan Squad, Tribe, Chapter, dan Guild.
+//? Squad adalah tim mandiri yang bekerja sama untuk mencapai misi jangka panjang.
+//? Tribe adalah kumpulan Squad yang bekerja pada produk atau area yang sama.
+//? Chapter adalah kumpulan orang-orang dengan keahlian yang sama di seluruh Tribe.
+//? Guild adalah kumpulan orang-orang yang tertarik pada topik atau teknologi tertentu.
 
+//@ Modul 2 - Scrum 101
+//~ Pilar dan nilai Scrum
+/// Pendahuluan Scrum
+//? Scrum Guide adalah sumber utama untuk Scrum Teams dan tersedia secara gratis di Scrumguides.org.
+//? Scrum didasarkan pada tiga pilar: Transparansi, Inspeksi, dan Adaptasi.
+//? Scrum memiliki lima nilai: Komitmen, Keberanian, Fokus, Keterbukaan, dan Menghormati.
+//? Scrum memiliki tiga peran: Product Owner, Scrum Master, dan Development Team.
+//? Scrum menggunakan artefak untuk melacak kemajuan: Product Backlog, Sprint Backlog, dan Increment.
+//? Scrum menggunakan acara untuk memeriksa dan mengadaptasi pekerjaan: Sprint Planning, Daily Scrum, Sprint Review, dan Sprint Retrospective\
+/// Tiga pilar scrum
+//? Transparansi: Semua aspek penting dari pekerjaan harus terlihat oleh mereka yang bertanggung jawab atas hasilnya.
+//? Inspeksi: Melakukan pemeriksaan tepat waktu terhadap hasil tujuan Sprint untuk mendeteksi penyimpangan yang tidak diinginkan. 
+//? Adaptasi: Terus mencari cara untuk menyesuaikan proyek, produk, atau proses kita untuk meminimalkan penyimpangan atau masalah lebih lanjut. 
+//# Contoh Tiga Pilar Scrum dalam kehidupan nyata:
+//? Transparansi: Seorang manajer proyek membagikan rencana proyek dan kemajuan dengan timnya dan para pemangku kepentingan.
+//? Inspeksi: Sebuah tim pengembangan perangkat lunak meninjau kode mereka secara teratur untuk menemukan bug.
+//? Adaptasi: Sebuah tim pemasaran menyesuaikan strategi pemasaran mereka berdasarkan umpan balik dari pelanggan.
+/// Lima Nilai Scrum
+//? Komitmen: Tim Scrum berkomitmen untuk mencapai tujuan Sprint mereka dan untuk bekerja sama sebagai satu kesatuan
+//? Keberanian: Tim Scrum harus memiliki keberanian untuk melakukan hal yang benar, bahkan ketika itu sulit
+//? Fokus: Tim Scrum harus fokus pada pekerjaan yang ada dan pada tujuan Sprint mereka
+//? Keterbukaan: Tim Scrum harus terbuka satu sama lain dan dengan pemangku kepentingan mereka
+//? Rasa hormat: Tim Scrum harus menghormati satu sama lain dan dengan pemangku kepentingan mereka 
+//~ Peran dan tanggung jawab Scrum
+/// Peran-peran Scrum yang penting
+//? Product Owner: Bertanggung jawab atas apa yang dibangun oleh tim. Mereka memastikan semua orang memahami mengapa sesuatu dibangun.
+//? Development Team: Bertanggung jawab atas bagaimana tim akan mengirimkan produk. Mereka membangun produk dan memastikannya memenuhi kebutuhan pengguna.
+//? Scrum Master: Bertanggung jawab atas kapan tim akan memberikan nilai kepada penggunanya. Mereka membantu tim untuk bekerja secara efisien dan efektif.
+//# Scrum Team harus memiliki beberapa keterampilan khusus:
+//? Cross-functional: Setiap anggota tim memiliki keahlian yang berbeda yang dibutuhkan untuk menyelesaikan pekerjaan.
+//? Self-organizing: Tim dapat mengatur diri sendiri dan bekerja tanpa perlu banyak arahan dari luar.
+/// Ciri-ciri Scrum yang Efektif:
+//? Transparansi: Semua informasi tentang proyek harus tersedia dan mudah diakses oleh semua anggota tim.
+//? Inspeksi: Tim harus secara teratur memeriksa kemajuan mereka dan mengidentifikasi area yang perlu ditingkatkan.
+//? Adaptasi: Tim harus siap untuk beradaptasi dengan perubahan dan membuat penyesuaian yang diperlukan.
+//? Fokus: Tim harus fokus pada penyelesaian tugas-tugas yang paling penting dan bernilai tinggi.
+//? Keberanian: Tim harus berani untuk mencoba hal-hal baru dan mengambil risiko.
+//? Komitmen: Tim harus berkomitmen untuk mencapai tujuan bersama.
+//? Rasa hormat: Tim harus saling menghormati dan menghargai ide-ide satu sama lain.
+//? Terbuka: Tim harus terbuka untuk umpan balik dan saran.
+//? Kepercayaan: Tim harus saling percaya dan mendukung satu sama lain.
+/// Ciri-ciri Product Owner yang efektif:
+//? Product Owner adalah suara pelanggan dalam tim.
+//? Tanggung jawab Product Owner juga termasuk membantu Scrum Team memahami mengapa pekerjaan mereka penting dalam tujuan dan misi keseluruhan
+//? Product Owner memastikan bahwa Product Backlog terlihat dan transparan untuk semua.
+
+//@ Modul 3 - Menerapkan Scrum
+//~ Pilar dan nilai Scrum
+/// Menyusun Backlog Produk
+//? Daftar terpusat yang berisi semua fitur, kebutuhan, dan aktivitas yang terkait dengan pengiriman produk.
+//# Karakteristik Backlog Produk:
+//? Dinamis: Berubah sepanjang siklus hidup proyek.
+//? Dimiliki oleh Product Owner: Bertanggung jawab untuk menambah, mengubah, dan memprioritaskan item.
+//? Terurut: Diurutkan berdasarkan prioritas, dengan item paling penting di bagian atas.
+//# Elemen Backlog Produk
+//? Deskripsi: Menjelaskan item secara detail.
+//? Nilai: Menunjukkan nilai bisnis yang diberikan item.
+//? Urutan: Menunjukkan prioritas item.
+//? Estimasi: Menunjukkan perkiraan usaha yang dibutuhkan untuk menyelesaikan item.
+/// Menulis cerita pengguna
+//? Cerita pengguna; deskripsi singkat dan sederhana tentang sebuah fitur dari perspektif pengguna.
+//# Cerita pengguna terdiri dari tiga elemen:
+//? Pengguna: Siapa yang akan menggunakan fitur tersebut?
+//? Tindakan: Apa yang ingin dilakukan pengguna dengan fitur tersebut?
+//? Manfaat: Apa manfaat yang akan didapatkan pengguna dari fitur tersebut?
+//# Format cerita pengguna: 
+//? Format cerita pengguna yang paling umum adalah "Sebagai <peran pengguna>, saya ingin <tindakan> sehingga saya dapat <manfaat>.
+//# Kriteria cerita pengguna yang baik
+//? Independent: Cerita pengguna dapat dikerjakan dan diselesaikan secara independen.
+//? Negotiable: Cerita pengguna dapat dinegosiasikan dan didiskusikan.
+//? Valuable: Cerita pengguna harus memberikan nilai bagi pengguna.
+//? Estimable: Cerita pengguna harus dapat diestimasi.
+//? Small: Cerita pengguna harus cukup kecil untuk dapat diselesaikan dalam satu sprint.
+//? Testable: Cerita pengguna harus dapat diuji.
+/// Perincian Backlog dan estimasi upaya
+//? proses menjaga Backlog tetap terdefinisi, diperkirakan, dan diprioritaskan, sehingga tim scrum dapat beroperasi secara efektif
+//? Estimasi upaya membantu tim merencanakan pekerjaan mereka dan memahami berapa banyak pekerjaan yang ada di depan mereka.
+//? Ada dua metode estimasi relatif umum: ukuran T-shirt dan poin cerita.
+/// Teknik Estimasi Upaya Agile
+//? Estimasi upaya adalah proses memperkirakan jumlah waktu dan usaha yang dibutuhkan untuk menyelesaikan tugas atau proyek.
+//# beberapa contoh teknik estimasi Agile:
+//? Planning Poker: Metode ini terutama dikenal dan umum digunakan ketika tim Scrum harus memperkirakan upaya yang dibutuhkan untuk jumlah item yang sedikit (di bawah 10)
+//? Dot Voting (Pemungutan Suara dengan Titik): Dot Voting, seperti Planning Poker, adalah cara yang juga bagus untuk Sprint dengan item Backlog Sprint yang sedikit
+//? The Bucket System (Sistem Keranjang): The Bucket System sangat membantu untuk Backlog dengan banyak item karena dapat dilakukan dengan sangat cepat. Faktanya, beberapa ratus item dapat diperkirakan hanya dalam satu jam dengan sistem ini. Bucket System adalah strategi yang efektif untuk menentukan ukuran item karena sistem ini mengeksplorasi setiap item dalam hal kerumitan "keranjang" yang telah ditentukan sebelumnya
+//? Large/Uncertain/Small (Besar/Tidak Pasti/Kecil): Large/Uncertain/Small adalah salah satu metode estimasi kasar yang cepat. Metode ini bagus untuk product backlog yang memiliki beberapa item serupa atau sebanding
+//? Ordering Method (Metode Pengaturan): Ordering Method sangat ideal untuk proyek dengan tim berukuran kecil yang memiliki banyak item di Backlog Produk. Pertama, skala disiapkan dan item ditempatkan secara acak mulai dari yang rendah hingga yang tinggi. Kemudian, satu per satu, setiap anggota tim dapat memindahkan item apa pun satu tingkat ke bawah atau ke atas pada skala tersebut, 
+//? Affinity Mapping (Pemetaan Afinitas): Affinity Mapping berguna untuk tim yang memiliki lebih dari 20 item di Backlog Produk mereka
+//~ Kegiatan scrum
+/// Pengantar scrum
+//? Sprint adalah periode waktu yang ditetapkan untuk menyelesaikan sejumlah pekerjaan dalam Scrum. Sprint biasanya berlangsung selama 1 hingga 4 minggu.
+//? Sprint memberikan ritme untuk tim dan memungkinkan umpan balik yang lebih cepat, kolaborasi tim yang lebih baik, dan lebih banyak fokus untuk tim Scrum
+//? Sprint dapat dianggap sebagai proyek mini dengan perencanaan, eksekusi, pengiriman, penutupan, dan retrospektif
+//? Ada lima acara Scrum: Sprint itu sendiri, Perencanaan Sprint, Scrum Harian, Tinjauan Sprint, dan Retrospektif Sprint
+/// Perencanaan scrum
+//# Tujuan Perencanaan Sprint:
+//? Menentukan kapasitas tim (waktu dan orang) untuk Sprint.
+//? Mengidentifikasi item Backlog yang akan dikerjakan selama Sprint.
+//? Membuat Sprint Backlog dan Sprint Goal.
+//? Sprint Backlog: Kumpulan item Backlog yang akan diselesaikan selama Sprint.
+//? Sprint Goal: Tujuan akhir yang ingin dicapai tim selama Sprint.
+/// Scrum Harian dan Ulasan Sprint
+//# Scrum Harian
+//? Tujuan: Sinkronisasi dan prioritaskan aktivitas untuk hari itu.
+//? Peserta: Scrum Team (Product Owner, Scrum Master, dan Development Team).
+//? Durasi: 15 menit.
+//? Waktu: Setiap hari pada waktu dan tempat yang sama.
+//? Pertanyaan yang dijawab:
+//? Apa yang saya lakukan kemarin untuk membantu Development Team mencapai Sprint Goal?
+//? Apa yang akan saya lakukan hari ini untuk membantu Development Team mencapai Sprint Goal?
+//? Apakah ada hambatan yang mencegah saya atau Development Team mencapai tujuan kita?
+//# Ulasan Sprint
+//? Tujuan: Meninjau dan mendemonstrasikan pekerjaan yang telah diselesaikan selama Sprint.
+//? Peserta: Scrum Team dan stakeholder.
+//? Durasi: Maksimal 4 jam.
+//? Waktu: Akhir Sprint.
+//? Aktivitas:
+//? Meninjau Product Increment.
+//? Mendiskusikan apa yang telah selesai dan apa yang belum.
+//? Menentukan item mana yang dianggap selesai dalam Product Backlog.
+//? Memberikan umpan balik tentang pekerjaan yang telah diselesaikan
+/// Manfaat standup harian
+//? Manfaat pertemuan Standup Harian:
+//? Meningkatkan visibilitas dan transparansi proyek.
+//? Membangun rasa kebersamaan dan kerja sama tim.
+//? Mengidentifikasi dan mengatasi hambatan proyek.
+//? Memastikan semua anggota tim mengetahui perkembangan proyek.
+//? Membangun budaya komunikasi yang terbuka dan jujur.
+//# Tips untuk pertemuan Standup Harian yang efektif:
+//? Jadwalkan pertemuan secara teratur, idealnya setiap hari.
+//? Batasi durasi pertemuan menjadi 15-20 menit.
+//? Buat agenda dan tetapkan waktu untuk setiap topik.
+//? Dorong semua anggota tim untuk berpartisipasi.
+//? Fokus pada pembahasan hal-hal yang penting dan mendesak.
+/// Retrospeksi Sprint:
+//? Retrospeksi Sprint adalah pertemuan penting bagi Tim Scrum untuk mundur selangkah, merefleksikan, dan mengidentifikasi peningkatan tentang cara bekerja bersama sebagai sebuah tim.
+//? Tim Scrum harus mengidentifikasi peningkatan yang layak untuk dijelajahi di Sprint berikutnya.
+//? Tim Scrum harus meninjau peningkatan yang diterapkan untuk Sprint terakhir dan mengevaluasi keefektifannya.
+//? Retrospeksi Sprint harus menghasilkan tindakan yang dapat ditindaklanjuti untuk meningkatkan cara kerja tim di masa mendatang.
+//~ Peralatan scrum
+/// Velositas dan diagram burndown
+//? Diagram burndown adalah alat visual yang melacak kemajuan tim dalam menyelesaikan pekerjaan selama Sprint. Diagram ini menunjukkan jumlah pekerjaan yang tersisa versus waktu
+//? Velositas adalah ukuran rata-rata jumlah pekerjaan yang diselesaikan tim dalam satu Sprint. Velositas digunakan untuk memprediksi berapa banyak pekerjaan yang dapat diselesaikan tim dalam Sprint mendatang dan untuk merencanakan rilis produk
+/// Peralatan untuk Transparansi dan Kolaborasi
+//? Jira: Alat manajemen proyek yang populer untuk tim Agile, mendukung manajemen backlog dan sprint.
+//? Trello: Alat Kanban yang sederhana dan mudah digunakan, cocok untuk proyek pribadi dan tim kecil.
+//? Asana: Alat manajemen proyek yang membantu tim merencanakan dan mengoordinasikan pekerjaan, dari tugas harian hingga inisiatif strategis.
+//? Google Docs: Alat pengolah kata yang memungkinkan kolaborasi dan dokumentasi secara real-time.
+//? Microsoft Excel/Google Sheets: Alat spreadsheet yang dapat digunakan untuk berbagai keperluan, termasuk manajemen backlog dan item backlog.
+//? Google Slides/Microsoft PowerPoint: Alat presentasi yang membantu tim menyampaikan informasi secara efektif.
+//? Alat konferensi video: Memfasilitasi komunikasi dan kolaborasi jarak jauh.
+//? Obrolan online: Memungkinkan komunikasi real-time antara anggota tim.
+//? Email: Alat komunikasi formal yang dapat digunakan untuk berbagi informasi dan dokumentasi.
+ 

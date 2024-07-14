@@ -1146,4 +1146,109 @@
 //? Alat konferensi video: Memfasilitasi komunikasi dan kolaborasi jarak jauh.
 //? Obrolan online: Memungkinkan komunikasi real-time antara anggota tim.
 //? Email: Alat komunikasi formal yang dapat digunakan untuk berbagi informasi dan dokumentasi.
- 
+
+//@ Module 4: Menerapkan agile dalam organisasi
+//~ Memahami pengiriman hasil yang digerakkan oleh nilai
+/// memaksimalkan pengiriman hasil yang digerakan oleh nilai
+//? Pengiriman nilai berarti memastikan bahwa produk yang Anda hasilkan benar-benar berharga bagi pengguna dan pelanggan Anda. (Membangun hal yang/Menjalankan dengan benar)
+/// Camron: Bagaimana Agile dapat mendorong nilai
+//? Fleksibilitas: Agile memungkinkan perubahan dan menerimanya saat Anda mempelajari lebih lanjut
+//? Pengiriman bertahap: Agile memberikan nilai lebih cepat dengan mengirimkan bagian-bagian kecil dari waktu ke waktu, tidak seperti pendekatan Waterfall di mana semuanya dikirim sekaligus di akhir
+//? Ekstraksi nilai: Agile memungkinkan Anda untuk mengekstrak nilai dari apa yang telah dibangun bahkan sebelum proyek selesai
+//? Adaptasi: Agile memungkinkan Anda untuk beradaptasi dengan perubahan dengan mudah karena Anda tidak perlu mengulang pekerjaan sebanyak yang Anda lakukan dengan Waterfall
+//? Fokus pada nilai: Agile berfokus pada penyampaian nilai kepada pelanggan dengan cepat dan sering
+/// Komponen peta jalan nilai
+//? alat yang membantu tim Agile tetap fokus dalam memberikan nilai
+//# Peta jalan nilai terdiri dari tiga komponen utama:
+//? Visi produk: Mendefinisikan apa produk itu, bagaimana mendukung strategi bisnis pelanggan, dan siapa yang akan menggunakannya.
+//? Peta jalan produk: Memberikan gambaran tingkat tinggi tentang produk yang diharapkan, persyaratannya, dan jadwal perkiraan untuk mencapai tonggak sejarah.
+//? Rencana rilis: Mencakup tujuan rilis, daftar item Backlog, tanggal rilis perkiraan, dan tanggal relevan lainnya yang memengaruhi rilis.
+/// Peta Jalan Produk: Manfaat, Jebakan, dan Praktik Terbaik
+//# Manfaat:
+//? Menjelaskan urutan hasil kerja
+//? Menunjukkan kepada tim bagaimana upaya mereka berhubungan dengan visi atau tujuan akhir mereka
+//? Membantu pemangku kepentingan memahami secara garis besar tata letak pekerjaan di balik deliverable
+//# Jebakan:
+//? Membiarkan pemangku kepentingan berpikir bahwa peta jalan sudah ditetapkan dan tidak dapat diubah
+//# Praktik Terbaik:
+//? Jadikan peta jalan sangat terlihat oleh tim dan sering-seringlah merujuk ke sana
+//? Tunjukkan dengan jelas item prioritas tertinggi
+/// Membuat peta jalan yang efektif
+//? Buat peta jalan produk; Peta jalan produk memberikan gambaran tingkat tinggi tentang produk yang diharapkan, Anda perlu memastikan bahwa tanggal rilis produk hanyalah perkiraan kasar
+//? Buat rencana rilis; Buat rencana rilis, Rencana rilis yang tidak terhubung dengan kemampuan tim untuk menyelesaikan pekerjaan bisa jadi tidak realistis dan menyebabkan kecepatan yang tidak berkelanjutan bagi tim
+//? Perlakukan peta jalan sebagai artefak hidup; Karena Agile adalah tentang merangkul dan mengantisipasi perubahan;  Tim Agile memperlakukan rencana rilis sebagai artefak hidup. Jadi, rencana dapat berubah berdasarkan lingkungan dan informasi baru yang diterima
+//? Tinjau rencana rilis sebelum memulai sesi perencanaan Sprint; Manajer Proyek harus selalu meninjau rencana rilis sebelum memulai sesi perencanaan Sprint. Mereka meninjau rencana rilis untuk memeriksa apakah tim berada di jalur yang benar
+/// Menanggapi perubahan lebih dari sekadar mengikuti rencana
+//# Ada tiga langkah untuk mengubah rencana proyek:
+//? Identifikasi perubahan yang diperlukan. Ini dapat dilakukan dengan melihat ruang lingkup, waktu, dan biaya proyek.
+//? Putuskan untuk melakukan perubahan. Ini harus dilakukan oleh satu orang, biasanya Product Owner atau pemangku kepentingan senior.
+//? Terapkan perubahan. Ini termasuk memperbarui semua artefak proyek yang terpengaruh dan memberi tahu semua pemangku kepentingan yang terkena dampak.
+//? Penting untuk mendokumentasikan perubahan yang dibuat pada rencana proyek
+//~ Memimpin melalui perubahan dan tantangan
+/// Kerangka Kerja Perubahan Influencer
+//? Model ini mengeksplorasi kekuatan pengaruh dalam memfasilitasi perubahan organisasi.
+//# Tiga kunci untuk memengaruhi (Influencer)
+//? Memperjelas hasil yang terukur; Hasil yang efektif harus spesifik, terukur, dapat dicapai, relevan, dan terikat waktu (SMART
+//? Menemukan perilaku vital; Memanfaatkan enam sumber pengaruh, Motivasi pribadi, Kemampuan pribadi, Motivasi sosial, Kemampuan sosial, Motivasi struktural, Kemampuan struktural
+/// Membimbing (coaching) versus mengelola (managing) di Agile
+//? Mengelola berfokus pada memberikan arahan dan menetapkan tugas, sementara membimbing berfokus pada mengembangkan keterampilan dan kemampuan anggota tim
+//# Kapan menggunakan & pendekatan mana?
+//# Mengelola:
+//? Saat ada keadaan darurat yang membutuhkan tindakan segera.
+//? Saat terlambat memenuhi tenggat waktu.
+//? Saat klien memiliki kebutuhan yang sangat spesifik.
+//? Saat proyek berorientasi hasil dan tidak ada ruang untuk kesalahan.
+//# Membimbing:
+//? Saat membangun kepercayaan diri individu atau tim.
+//? Saat anggota tim menggunakan teknologi atau ilmu baru.
+//? Saat perilaku individu memiliki konsekuensi yang tidak diinginkan pada dinamika tim.
+//? Saat tim sedang memulihkan diri dari suatu kemunduran.
+//# Prinsip Membimbing:
+//? Memotivasi: Menunjukkan nilai dalam pekerjaan orang lain dan menanamkan rasa bangga.
+//? Mendukung: Menjadi sumber referensi yang dapat diakses oleh tim.
+//? Mendorong dan menghargai: Mengakui dan memvalidasi usaha anggota tim.
+/// Tantangan yang dihadapi tim Agile dan cara mengatasinya
+//# Pengiriman Nilai:
+//? Tanda-tanda masalah: Tim melewatkan tenggat waktu, bekerja lembur, terlalu banyak item dalam proses.
+//? Solusi: Demo lebih sering, retrospektif, tinjauan definisi "selesai", fokus pada beberapa cerita pengguna per Sprint.
+//# Kolaborasi Bisnis:
+//? Tanda-tanda masalah: Umpan balik kritis berlebihan, tim menghindari umpan balik, mentalitas "kami vs. mereka".
+//? Solusi: Demo lebih sering, Sprint Desain Solusi, batasi perubahan Backlog di antara Sprint.
+//# Dinamika dan Budaya Tim:
+//? Tanda-tanda masalah: Moral rendah, konflik tinggi, konflik rendah, dendam.
+//? Solusi: Sesi curah pendapat tim, ubah alur kerja, pelatihan tim, retrospektif.
+//? Six Hats Thinking Technique: Setiap anggota tim memilih topi yang berbeda untuk mengeksplorasi subjek retrospektif. Setiap topi memiliki tujuan yang berbeda, seperti membahas hal positif atau negatif yang terjadi selama Sprint atau berbagi pernyataan emosional.
+/// Tantangan umum membimbing dalam Agile
+//# Mengelola peta jalan produk yang stabil:
+//? Penyebab:
+//? Ambisi produk: Pemilik produk mungkin terlalu ambisius tentang apa yang dapat diberikan oleh tim secara realistis.
+//? Asumsi produk: Terlalu banyak asumsi tentang produk dapat membahayakan keberhasilan tim.
+//? Solusi:
+//? Setujui di muka bagaimana menangani peluang baru.
+//? Siapkan tinjauan peta jalan rutin dengan seluruh tim.
+//? Dokumentasikan asumsi dan buatlah transparan.
+//# Implementasi Scrum yang tidak lengkap:
+//? Penyebab:
+//? Peran, artefak, dan aktivitas Scrum hanya diterapkan sebagian.
+//? Kurangnya dukungan dan pelatihan Scrum.
+//? Solusi:
+//? Terapkan Scrum sepenuhnya.
+//? Perkuat hubungan antara aktivitas tim dan nilai-nilai Scrum dan Agile.
+//? Pastikan peran didefinisikan dengan baik dan dipenuhi dengan benar.
+//# Kurangnya stabilitas tim:
+//? Penyebab:1
+//? Perubahan anggota tim yang sering.
+//? Solusi:
+//? Memiliki proses orientasi yang cepat untuk anggota tim baru.
+//? Memiliki Sprint yang lebih pendek.
+//~ Peluang peluang agile
+/// Hubungan antara Agile dan DevOps
+//? Agile adalah metodologi pengembangan perangkat lunak yang berfokus pada pengiriman perangkat lunak secara iteratif dan bertahap.
+//? DevOps adalah serangkaian praktik yang mengotomatiskan dan mengintegrasikan proses pengembangan dan operasi perangkat lunak
+/// Penyesuaian skala Agile
+//# Kerangka kerja penyesuaian skala Agile
+//? Scaled Agile Framework (SAFe); SAFe mengatur semua pekerjaan dan tim ke dalam "Kereta Rilis Agile" berdasarkan aliran nilai
+//? Scrum of Scrums: Teknik untuk mengintegrasikan pekerjaan beberapa tim Scrum yang lebih kecil yang mengerjakan proyek atau solusi yang sama
+//? Large Scale Scrum (LeSS): Kerangka kerja yang bertujuan untuk memaksimalkan kemampuan tim Scrum dalam memberikan nilai dan mengurangi pemborosan pada organisasi yang lebih besar.
+//? Disciplined Agile Delivery (DAD): Pendekatan hybrid yang menggabungkan strategi dari berbagai kerangka kerja Agile
+//? Model Spotify: Pendekatan yang berfokus pada budaya, otonomi tim, komunikasi, akuntabilitas, dan kualitas.

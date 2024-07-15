@@ -1252,3 +1252,66 @@
 //? Large Scale Scrum (LeSS): Kerangka kerja yang bertujuan untuk memaksimalkan kemampuan tim Scrum dalam memberikan nilai dan mengurangi pemborosan pada organisasi yang lebih besar.
 //? Disciplined Agile Delivery (DAD): Pendekatan hybrid yang menggabungkan strategi dari berbagai kerangka kerja Agile
 //? Model Spotify: Pendekatan yang berfokus pada budaya, otonomi tim, komunikasi, akuntabilitas, dan kualitas.
+
+//! COURSE 6 : Menerapkan Manajemen Proyek di Dunia Nyata
+//@ Modul 1 - Memulai sebuah proyek
+//~ Proyek charter
+/// Piagam proyek: Tujuan dan komponen
+//? Piagam proyek adalah dokumen formal yang secara jelas mendefinisikan proyek dan menguraikan detail yang diperlukan untuk mencapai tujuan proyek
+//? Piagam proyek berisi informasi penting tentang proyek, seperti ringkasan, tujuan, dan kiriman
+//? Tujuan dari ringkasan adalah untuk memberikan gambaran umum tentang proyek dan untuk menguraikan tujuan
+//? Tujuan proyek mengacu pada hasil yang diinginkan dari proyek
+//? kiriman mengacu pada tugas dan hasil nyata tertentu yang memungkinkan tim untuk memenuhi tujuan proyek
+/// Piagam proyek: Menyusun tujuan yang SMART
+//? Tujuan SMART adalah tujuan yang Spesifik, Mengukur, Attainable, Relevan, dan Terikat waktu
+//? Tujuan yang spesifik menjawab pertanyaan seperti "Apa yang ingin saya capai?" dan "Apa persyaratan dan kendala dari tujuan ini?"
+//? Tujuan yang terukur memiliki angka atau metrik yang terkait dengannya, sehingga Anda dapat melacak kemajuan Anda dan mengetahui kapan Anda telah mencapainya.
+//? Tujuan yang dapat dicapai menantang tetapi masih realistis untuk dicapai dengan sumber daya dan batasan waktu yang Anda miliki.
+//? Tujuan yang relevan selaras dengan tujuan yang lebih luas dari perusahaan atau organisasi Anda.
+//? Tujuan yang terikat waktu memiliki batas waktu, sehingga Anda tahu kapan tujuan tersebut harus diselesaikan.
+/// Piagam proyek: Menjabarkan ruang lingkup, manfaat, dan biaya
+//? Ruang Lingkup: Ruang lingkup mengacu pada batasan proyek, seperti jumlah restoran yang berpartisipasi dalam proyek percontohan. Detail yang tidak berkontribusi pada tujuan proyek dianggap di luar ruang lingkup
+//? Manfaat: Manfaat adalah keuntungan yang diharapkan dari sebuah proyek. Ini bisa berupa keuntungan langsung, keuntungan moneter, atau manfaat tidak langsung, seperti peningkatan dalam keterlibatan atau kepuasan pelanggan
+//? Biaya: Biaya mengacu pada uang yang dikeluarkan untuk tugas proyek dan harga hal-hal seperti waktu, sumber daya, dan tenaga kerja. Biaya
+/// Memulai Proyek yang efektif
+//# Alasan umum kegagalan proyek:
+//? Definisi proyek yang buruk.
+//? Ketidakorganisasian.
+//? Kurangnya kerangka kerja untuk mengelola proyek.
+//? Terlalu banyak orang yang terlibat.
+//? Kurangnya akuntabilitas.
+//? Perspektif pemangku kepentingan yang berbeda-beda.
+//# Saran untuk mencegah kegagalan proyek:
+//? Pahami siapa pemangku kepentingan utama dan perspektif mereka.
+//? Temui pemangku kepentingan secara teratur untuk membangun kesepahaman dan kompromi.
+//? Tetapkan kerangka kerja yang jelas untuk mengelola proyek.
+//~ Bernegosiasi secara efektif
+/// Analisis pemangku kepentingan
+//? Analisis pemangku kepentingan adalah representasi visual dari semua pemangku kepentingan. Ini membantu Anda memahami siapa pemangku kepentingan Anda, apa prioritas mereka, dan bagaimana mereka lebih suka berkomunikasi.
+//? Pengaruh pemangku kepentingan terkait dengan seberapa besar kekuatan yang mereka miliki dan seberapa besar tindakan mereka memengaruhi hasil proyek
+//? Misalnya, jika pemangku kepentingan memiliki minat dan pengaruh yang tinggi, mungkin sangat penting bagi Anda untuk membuat mereka tetap terinformasi dan memastikan tujuan mereka untuk proyek menjadi prioritas utama. 
+/// Manajemen pemangku kepentingan
+//? proses menjaga hubungan baik dengan orang-orang yang memiliki pengaruh paling besar terhadap pekerjaan Anda.
+//# Tips untuk manajemen pemangku kepentingan yang efektif:
+//? Identifikasi semua pemangku kepentingan di awal proyek atau inisiatif Anda.
+//? Libatkan semua orang sedini mungkin untuk menetapkan ekspektasi, tanggung jawab, dan batasan yang jelas.
+//? Bekali pemangku kepentingan Anda dengan sumber informasi yang ramah pengguna setiap saat.
+//? Cari tahu apa yang diperhatikan oleh para pemangku kepentingan dan alasannya.
+//? Sesuaikan frekuensi dan pendekatan komunikasi Anda berdasarkan peran dan preferensi pemangku kepentingan.
+/// Menemukan solusi yang saling menguntungkan
+//? Negosiasi adalah alat yang ampuh yang dapat digunakan oleh manajer proyek untuk mencapai hasil yang saling menguntungkan bagi semua pemangku kepentingan yang terlibat.
+//? Untuk menjadi negosiator yang efektif, penting untuk memahami kebutuhan dan keinginan pemangku kepentingan Anda, serta bersedia berkompromi
+//? Dengan menggunakan negosiasi secara efektif, manajer proyek dapat memastikan bahwa proyek mereka berhasil dan memenuhi kebutuhan semua pemangku kepentingan.
+/// Menerapkan pengaruh dalam negosiasi
+//? Pengaruh adalah kunci dalam manajemen proyek. Kemampuan untuk mempengaruhi orang lain sangat penting untuk keberhasilan proyek.
+//# Ada empat langkah untuk mempengaruhi secara efektif:
+//? Membangun kredibilitas: Tunjukkan bahwa Anda adalah orang yang dapat dipercaya dan memiliki pengetahuan tentang topik yang sedang dibahas.
+//? Mencari kesamaan: Temukan titik temu dengan orang yang Anda coba pengaruhi.
+//? Memberikan bukti: Berikan bukti yang mendukung posisi Anda.
+//? Menghubungkan secara emosional: Bangun hubungan emosional dengan orang yang Anda coba pengaruhi.
+//? Salah satu cara untuk mendapatkan pengaruh adalah dengan membentuk koalisi
+
+
+//@ Modul 2 - Membuat rencana sebuah proyek
+//@ Modul 3 - Menjaga kualitas
+//@ Modul 4 - Komunikasi pemangku kepentingan yang efektif

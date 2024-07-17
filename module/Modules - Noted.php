@@ -1310,8 +1310,68 @@
 //? Memberikan bukti: Berikan bukti yang mendukung posisi Anda.
 //? Menghubungkan secara emosional: Bangun hubungan emosional dengan orang yang Anda coba pengaruhi.
 //? Salah satu cara untuk mendapatkan pengaruh adalah dengan membentuk koalisi
-
-
 //@ Modul 2 - Membuat rencana sebuah proyek
+//~ Mengidentifikasi tujuan proyek Menganalisis
+/// Mengidentifikasi tujuan proyek
+//? Membuat rencana proyek adalah proses yang berulang yang membutuhkan masukan dari berbagai pemangku kepentingan.
+//? Tujuan proyek adalah pernyataan singkat tentang apa yang ingin dicapai oleh proyek tersebut. Tujuan proyek haruslah spesifik, terukur, dapat dicapai, relevan, dan terikat waktu (SMART)
+//? Dokumentasi proyek adalah kumpulan dokumen yang berisi informasi tentang proyek, seperti piagam proyek, rencana proyek, dan laporan kemajuan
+/// Kiat-kiat untuk mendefinisikan tugas-tugas proyek
+//? Proses mengidentifikasi dan mendefinisikan tugas-tugas proyek adalah proses yang membutuhkan latihan 
+//? Tulis deskripsi tugas proyek dalam satu atau dua kalimat dan pecah menjadi sub tugas
+//? Pertimbangkan ketergantungan tugas proyek (apakah ketergantungan dengan tim lain)
+//? Mintalah bantuan dari anggota tim (sharing agar dapat refrece waktu untuk selesai )
+//? Definisikan tugas proyek berdasarkan jumlah waktu yang dibutuhkan untuk menyelesaikannya
+//? Identifikasi tugas proyek berdasarkan faktor "selesai" mereka (Bagaimana suatu tugas dapat dianggap "selesai"?)
+/// Mengidentifikasi tujuan proyek: Melakukan riset online
+//? Riset online dapat membantu Anda mengidentifikasi tugas dan tonggak penting, memahami domain proyek dengan lebih baik, dan mengantisipasi potensi masalah.
+//# Tips untuk melakukan riset online:
+//? Cari berita online tentang proyek serupa di perusahaan lain.
+//? Teliti proyek serupa di industri lain.
+//? Tinjau daftar tugas Anda dan teliti secara spesifik tentang
+/// Mengurutkan tugas dan mengidentifikasi milestone 
+//# Mengurutkan tugas:
+//? Pastikan semua tugas yang diperlukan ada dalam rencana proyek Anda.
+//? Tinjau daftar tugas Anda dan bagi tugas yang lebih besar menjadi subtugas yang lebih kecil.
+//? Atur tugas dalam urutan yang perlu diselesaikan.
+//? Pertimbangkan urutan alami tugas, serta dependensi atau prasyarat untuk setiap tugas.
+//# Mengidentifikasi tonggak:
+//? Tonggak adalah titik penting dalam jadwal proyek yang menunjukkan kemajuan.
+//? Untuk menentukan tonggak dalam daftar tugas Anda, identifikasi titik-titik dalam rencana proyek di mana Anda dan tim Anda dapat mengevaluasi pekerjaan yang telah diselesaikan sejauh ini.
+//? Tinjau catatan Anda dari percakapan sebelumnya dengan pemangku kepentingan, dan identifikasi tugas yang ingin diketahui lebih lanjut oleh pemangku kepentingan atau ingin ditinjau setelah selesai.
+//? Identifikasi tugas yang membawa risiko tinggi atau menandakan penyelesaian fase atau tugas utama.
+//~ Membuat estimasi waktu yang akurat
+/// Estimasi waktu: Mengajukan pertanyaan yang tepat
+//? periksa pemahaman mereka tentang tugas tersebut, Minta ahli untuk menjelaskan semua langkah terperinci yang terlibat dalam tugas tersebut
+//? mintalah perkiraan sub-langkah dan catat
+//? Strategi lainnya adalah mendiskusikan asumsi yang mungkin dibuat oleh ahli saat mereka memberi Anda perkiraan
+//? Tanya pakar tugas (AI) untuk mendiskusikan total tugas dan membandingan tugas dari sebelumnyua
+//? Estimasi usaha hanya memperhitungkan waktu aktual yang dibutuhkan untuk menyelesaikan suatu tugas
+//? Estimasi durasi total memperhitungkan usaha, estimasi, dan faktor lainnya, seperti mendapatkan persetujuan, pekerjaan persiapan, pengujian, dan sebagainya.
+/// Estimasi waktu: Estimasi tiga-poin
+//? Estimasi tiga poin adalah teknik yang digunakan untuk menentukan estimasi waktu yang paling realistis untuk sebuah tugas.
+//? Teknik ini menggunakan perhitungan optimis, paling mungkin, dan pesimis.
+//? Estimasi optimis; (kondisi pasti) mengasumsikan skenario kasus terbaik, di mana tidak ada masalah yang terjadi dan tugas akan selesai dalam waktu yang diperkirakan.
+//? Estimasi pesimis; (kondisi terburuk) mengasumsikan bahwa masalah pasti akan terjadi, dan tugas akan memakan waktu selama mungkin dalam skenario terburuk.
+//? Estimasi paling mungkin; (kondisi normal) Mengasumsikan beberapa masalah mungkin terjadi dan berdasarkan pada berapa lama biasanya tugas berlangsung dalam keadaan normal
+/// Teknik estimasi tiga-poin
+//? Memberikan estimasi yang lebih realistis dibandingkan dengan hanya menggunakan satu perkiraan.
+//? Membantu mengidentifikasi potensi risiko dan peluang.
+//# RUMUS Hitung estimasi final 
+//? Distribusi Beta (PERT): E = (o + 4m + p) / 6 
+//? contoh E(estimasi final), o(kondisi pasti)4 jam, p(pesimis) 6hari, ESTIMASI paling mungkin 6 jam
+//? E = ( 4 + 6 + 6 ) / 6 = 2.3 hari
+/// Negosiasi estimasi waktu yang efektif
+//? Keterampilan negosiasi dapat membantu Anda mendapatkan estimasi waktu dan upaya yang akurat.
+//# Teknik negosisasi estimasi waktu yang akurat
+//? Teknik pertama adalah mengatakan tidak tanpa mengatakan tidak, (Bagaimana kita bisa menyelesaikan masalah ini?)
+//? Teknik kedua adalah fokus pada kepentingan, bukan posisi ( )
+//? Teknik ketiga adalah menghadirkan opsi yang saling menguntungkan
+//? Teknik keempat adalah bersikeras menggunakan kriteria objektif untuk menentukan estimasi waktu
+/// Bernegosiasi dengan empati
+//? Empati adalah kemampuan untuk memahami dan merasakan apa yang orang lain rasakan
+//? Menanyakan estimasi waktu atau mempertanyakan mengapa suatu aspek proyek tertunda bisa menjadi percakapan yang sulit.
+//? Dengan mempraktikkan empati, Anda dapat menciptakan lingkungan yang lebih mendukung dan kolaboratif untuk tim Anda.
+
 //@ Modul 3 - Menjaga kualitas
 //@ Modul 4 - Komunikasi pemangku kepentingan yang efektif

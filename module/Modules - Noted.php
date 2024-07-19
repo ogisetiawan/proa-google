@@ -1310,6 +1310,7 @@
 //? Memberikan bukti: Berikan bukti yang mendukung posisi Anda.
 //? Menghubungkan secara emosional: Bangun hubungan emosional dengan orang yang Anda coba pengaruhi.
 //? Salah satu cara untuk mendapatkan pengaruh adalah dengan membentuk koalisi
+
 //@ Modul 2 - Membuat rencana sebuah proyek
 //~ Mengidentifikasi tujuan proyek Menganalisis
 /// Mengidentifikasi tujuan proyek
@@ -1374,4 +1375,64 @@
 //? Dengan mempraktikkan empati, Anda dapat menciptakan lingkungan yang lebih mendukung dan kolaboratif untuk tim Anda.
 
 //@ Modul 3 - Menjaga kualitas
+//~ Mengembangkan rencana manajemen kulitas
+/// Konsep-konsep utama manajemen kualitas
+//? Proses yang dilakukan oleh manajer proyek atau tim untuk mengidentifikasi dan menentukan standar kualitas yang relevan untuk proyek dan bagaimana memenuhinya.
+//? Standar kualitas: Persyaratan, spesifikasi, atau pedoman yang digunakan untuk memastikan bahwa material, produk, proses, dan layanan sesuai untuk mencapai hasil yang diinginkan
+//? Jaminan kualitas (QA): Proses peninjauan yang mengevaluasi apakah proyek Anda bergerak ke arah penyampaian layanan atau produk berkualitas tinggi.
+//? Kontrol kualitas (QC): Teknik yang digunakan untuk memastikan standar kualitas dipertahankan ketika masalah teridentifikasi.
+//~ Mengevaluasi standar kualitas
+/// Membuat pertanyaan evaluasi
+//? Evaluasi adalah bentuk penelitian yang dirancang untuk mendorong pembelajaran dan menginformasikan keputusan
+//? Pertanyaan evaluasi adalah pertanyaan kunci tentang hasil, dampak, dan/atau efektivitas proyek atau aspek kunci proyek
+// contoh; Bagaimana kita dapat meningkatkan? Apa yang berhasil dan apa yang tidak? Tujuan mana yang terpenuhi? 
+//? Pertanyaan yang mengukur dan membandingkan; penilaian tentang bagaimana atau apakah akan melanjutkan proses atau dengan proyek itu sendiri
+// Apa hasilnya? Apakah ada hasil yang tidak diinginkan? Berapa biaya dan manfaatnya? Apakah ada pelajaran yang bisa dipetik
+/// Menentukan indikator sesuai
+//? Indikator evaluasi adalah data spesifik yang perlu dikumpulkan untuk menjawab pertanyaan evaluasi Anda.
+//? Indikator menunjukkan apa yang ingin Anda ukur atau evaluasi, seperti jumlah sesuatu, tingkat kepuasan, preferensi, atau informasi demografis seperti usia, jenis kelamin, pengalaman, dan sebagainya.
+//? Indikator juga termasuk tanda-tanda yang terlihat seperti nilai ujian, tingkat kehadiran, atau perilaku yang diamati.
+/// Mengembangkan Survei
+//? Survei adalah alat yang dapat digunakan untuk mengevaluasi dan mengukur kualitas proses, tujuan, atau hasil proyek.
+//? Survei dapat membantu Anda memahami apa yang berhasil dan apa yang tidak berhasil, menilai kriteria yang ingin Anda evaluasi,
+//# Tips untuk menulis pertanyaan survei yang efektif:
+//? Pastikan pertanyaan Anda menanyakan apa yang ingin Anda tanyakan.
+//? Berhati-hatilah untuk tidak membuat asumsi tentang responden Anda.
+//? Ajukan pertanyaan dan berikan pilihan jawaban yang memungkinkan orang untuk menjawab secara akurat tentang pengalaman mereka
+
+//~ Menyajikan data
+///Presentasi evaluasi: Komponen dan tip
+//? Pendahuluan: Ringkasan singkat dari tujuan proyek, hasil yang diinginkan, temuan, pelajaran yang dipetik, dan rekomendasi
+//? Apa yang Dievaluasi dan Mengapa: Nyatakan tujuan evaluasi, standar kualitas, pertanyaan evaluasi, dan indikator
+//? Temuan Evaluasi: Sajikan temuan untuk setiap standar, berikan penilaian yang jelas, dan ceritakan kisah tentang apa arti data tersebut.
+//? Kesimpulan dengan Rekomendasi: Nyatakan kembali temuan dan usulkan rekomendasi untuk menerapkan temuan tersebut.
+
+//~ Memfasilitas restropektif
+/// Nilai retrospektif
+//? Retrospektif adalah pertemuan untuk refleksi proyek, membahas keberhasilan, hambatan, dan pembelajaran
+//? Waktu: Idealnya di akhir proyek, tetapi juga bermanfaat sepanjang siklus hidup proyek, terutama setelah pencapaian tonggak penting.
+//# Meningkatkan kekompakan tim.
+//? Memperlancar kolaborasi di masa depan.
+//? Mendorong perubahan positif dalam prosedur dan proses
+//# Peran Manajer Proyek:
+//? Memfasilitasi diskusi yang terstruktur dan positif.
+//? Memastikan semua anggota tim merasa dihargai.
+//? Mengidentifikasi detail penting untuk didokumentasikan.
+/// Retrospektif: Mendorong partisipasi
+//? membahas tentang bagaimana mendorong anggota tim untuk bertanggung jawab atas keputusan dan tindakan mereka selama proyek berlangsung, dan bagaimana mengubah kritik menjadi pembelajaran yang membangun
+//? Akuntabilitas vs Menyalahkan: Fokusnya adalah membangun akuntabilitas tim tanpa mencari siapa yang harus disalahkan.
+//# Teknik Mendorong Akuntabilitas:
+//? Siapkan contoh tantangan spesifik untuk didiskusikan.
+//? Ubah keluhan tim menjadi tindakan SMART (Spesifik, Measurable/Terukur, Achievable/Tercapai, Relevant/Relevan, Time-bound/Terikat Waktu).
+//? Dorong tim untuk mengidentifikasi peran mereka dalam suatu tantangan.
+//? Pastikan kritik tetap membangun dan tidak personal.
+//? Tujuan: Membuat tim merasa nyaman untuk belajar dari kesalahan dan meningkatkan proses kerja di masa depan
+/// Retrospektif: Mengatasi sikap negatif
+//? Tetapkan suasana positif. Awali pertemuan dengan menyoroti keberhasilan proyek dan memberikan apresiasi pada tim
+//? Antisipasi potensi negativitas. Lakukan pertemuan individual dengan anggota tim sebelum retrospektif untuk memahami perasaan dan kekhawatiran mereka.
+//? Tangani negativitas secara langsung. Jika ada anggota tim yang bersikap negatif, cobalah untuk:
+//? Memberi kesempatan kepada setiap anggota tim untuk berbagi pemikiran mereka secara individual.
+//? Mengarahkan diskusi kembali ke topik yang lebih positif.
+//? Mengambil jeda jika situasi memanas.
+
 //@ Modul 4 - Komunikasi pemangku kepentingan yang efektif

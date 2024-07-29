@@ -1399,14 +1399,12 @@
 //? Pastikan pertanyaan Anda menanyakan apa yang ingin Anda tanyakan.
 //? Berhati-hatilah untuk tidak membuat asumsi tentang responden Anda.
 //? Ajukan pertanyaan dan berikan pilihan jawaban yang memungkinkan orang untuk menjawab secara akurat tentang pengalaman mereka
-
 //~ Menyajikan data
 ///Presentasi evaluasi: Komponen dan tip
 //? Pendahuluan: Ringkasan singkat dari tujuan proyek, hasil yang diinginkan, temuan, pelajaran yang dipetik, dan rekomendasi
 //? Apa yang Dievaluasi dan Mengapa: Nyatakan tujuan evaluasi, standar kualitas, pertanyaan evaluasi, dan indikator
 //? Temuan Evaluasi: Sajikan temuan untuk setiap standar, berikan penilaian yang jelas, dan ceritakan kisah tentang apa arti data tersebut.
 //? Kesimpulan dengan Rekomendasi: Nyatakan kembali temuan dan usulkan rekomendasi untuk menerapkan temuan tersebut.
-
 //~ Memfasilitas restropektif
 /// Nilai retrospektif
 //? Retrospektif adalah pertemuan untuk refleksi proyek, membahas keberhasilan, hambatan, dan pembelajaran
@@ -1436,3 +1434,68 @@
 //? Mengambil jeda jika situasi memanas.
 
 //@ Modul 4 - Komunikasi pemangku kepentingan yang efektif
+//~ Berkomunikasi dengan para pemangku kepentingan
+/// Mengomunikasikan permasalahan proyek
+//? Fokus pada inti masalah dan solusi yang diusulkan. Bantu stakeholder untuk langsung memahami inti masalah dan solusi yang kamu tawarkan.
+//? Gunakan informasi dari berbagai sumber untuk membuat analisis yang komprehensif.
+/// Menulis email untuk mengangkat suatu masalah
+//? Pikirkan apa yang terpenting bagi stakeholder. Sampaikan bagaimana masalah tersebut dapat memengaruhi tujuan organisasi secara keseluruhan.
+//? Tulis baris subjek yang jelas. Sebutkan inti email dan sertakan ajakan bertindak, seperti "mohon ditinjau" atau "urgent".
+//? Buat isi email tetap ringkas dan langsung ke intinya. Jelaskan masalahnya, pengaruhnya terhadap tujuan organisasi, dan keputusan apa yang Anda butuhkan.
+//? Sertakan informasi tambahan jika diperlukan. Gunakan hyperlink atau lampiran untuk dokumen pendukung.
+//? Koreksi email dengan cermat. Periksa ejaan, tata bahasa, dan tautan sebelum mengirim.
+//~ Mendemonstrasikan dampak
+/// Menyelesaikan laporan penutupan
+//? Tujuan: Mendokumentasikan proyek secara lengkap, mencatat pembelajaran, dan mempersiapkan proyek serupa di masa depan
+//? Ringkasan proyek (tujuan, metodologi)
+//? Baseline kinerja (perbandingan rencana vs realisasi)
+//? Pencapaian dan Hasil Kunci
+//? Pelajaran yang Diambil
+//? Langkah Selanjutnya
+//? Arsip Dokumentasi Proyek
+/// Laporan dampak proyek
+//# Tujuan Laporan Dampak:
+//? Menganalisis hasil proyek untuk pembelajaran dan peningkatan.
+//? Memotivasi tim dan stakeholder dengan merayakan kesuksesan.
+//? Membangun kepercayaan dengan menunjukkan nilai proyek.
+//? Berbagi pembelajaran dengan organisasi lain.
+//# Elemen Ringkasan Eksekutif:
+//? Visi Proyek: Kebutuhan yang dipenuhi proyek.
+//? Pencapaian Utama: Hasil dan kesuksesan utama.
+//? Pelajaran yang Dipetik: Perbaikan untuk proyek mendatang.
+/// Laporan Penutupan Pribadi
+//? Daftar Pencapaian: Tuliskan pencapaian kunci kamu selama program, seperti tantangan yang berhasil diatasi dan konsep yang berhasil dipahami.
+//? Pelajaran yang Didapat: Identifikasi pelajaran berharga, seperti preferensi dalam mengelola stakeholder atau kesulitan dalam budgeting.
+//? Langkah Selanjutnya: Tentukan langkah konkret untuk memajukan karir, seperti menghubungi recruiter atau meminta tanggung jawab lebih.
+//? Garis Waktu Tujuan: Buat timeline untuk mencapai tujuan karirmu, seperti memperbarui resume dan melamar pekerjaan.
+//? Rangkuman Eksekutif: Tuliskan rangkuman pengalamanmu di program ini, soroti kesuksesan, dan rencana ke depan.
+//~ Mempersiapkan diri untuk wawancara
+/// Menguasai elevator pitch
+//? rangkuman profesional singkat tentang diri Anda, dirancang untuk disampaikan dalam 60 detik atau kurang. Tujuannya adalah untuk memperkenalkan diri dan membuka percakapan lebih lanjut
+//? Kunci: Kunci elevator pitch yang efektif adalah autentik dan personal. Sampaikan passion Anda dalam manajemen proyek dan kaitkan dengan industri atau peran yang Anda inginkan.
+//# Tiga Bagian Utama:
+//? Siapa Anda: Perkenalkan diri Anda secara singkat dan profesional.
+//? Keahlian dan Pengalaman: Sebutkan keahlian dan pengalaman Anda yang relevan dengan peran atau industri yang Anda targetkan. Gunakan 1-3 poin singkat dan tunjukkan pencapaian Anda.
+//? Apa yang Anda Inginkan: Jelaskan tujuan Anda dengan jelas, misalnya ingin berdiskusi lebih lanjut, meminta kontak, atau melamar posisi. Tunjukkan nilai tambah yang Anda tawarkan.
+/// Metode STAR
+//? sebuah teknik yang efektif untuk menjawab pertanyaan interview kerja
+//# Metode STAR:
+//? Situation (Situasi): Jelaskan konteks dan situasi dari pengalaman yang ingin kamu ceritakan.
+//? Task (Tugas): Jabarkan tugas dan tanggung jawabmu dalam situasi tersebut.
+//? Action (Aksi): Jelaskan tindakan spesifik yang kamu ambil untuk menyelesaikan tugas atau menghadapi tantangan.
+//? Result (Hasil): Paparkan hasil akhir dari tindakanmu dan dampak positifnya.
+//# Manfaat Metode STAR:
+//? Membantu kamu menyusun jawaban yang terstruktur dan mudah dipahami oleh pewawancara.
+//? Menunjukkan kemampuanmu dalam menganalisis situasi, mengambil inisiatif, dan mencapai hasil yang positif.
+/// Kiat-kiat wawancara dari para Googler
+//# Persiapan Wawancara:
+//? Siapkan contoh konkret tentang penyelesaian konflik, kepemimpinan, dan komunikasi tantangan kepada stakeholder.
+//? Pelajari studi kasus tentang proyek yang berhasil dan gagal untuk memahami peran manajemen proyek.
+//? Tingkatkan pengetahuan tentang manajemen proyek melalui artikel, TED Talks, dan pertemuan online.
+//# Saat Wawancara:
+//? Jadilah diri sendiri dan tunjukkan antusiasme.
+//? Tekankan keterampilan organisasi, kepemimpinan, dan komunikasi Anda.
+//? Bersikap tenang dan tunjukkan bahwa Anda adalah pemain tim yang baik
+
+
+

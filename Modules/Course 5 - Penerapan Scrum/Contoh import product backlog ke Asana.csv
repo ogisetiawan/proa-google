@@ -1,0 +1,42 @@
+Cerita pengguna / Kriteria Penerimaan,Bagian / Kolom,Sub-tugas dari,Epik,Deskripsi,Nilai,Estimasi (Story Point)
+Opsi pemeliharaan minimum,Backlog,,“Plant Care Initiatives”/”Inisiatif Perawatan Tanaman”,"Sebagai pelanggan potensial, saya ingin mengetahui tanaman mana yang paling mudah dirawat sehingga saya dapat membeli opsi yang minim perawatan.",$$$,
+Kiat-kiat perawatan tanaman,Backlog,,“Plant Care Initiatives”/”Inisiatif Perawatan Tanaman”,"Sebagai pemilik tanaman, saya ingin mengakses instruksi perawatan dengan mudah sehingga tanaman saya dapat bertahan lebih lama.",$$$,
+Peralatan untuk merawat tanaman,Backlog,,“Plant Care Initiatives”/”Inisiatif Perawatan Tanaman”,"Sebagai pemilik tanaman, saya ingin memiliki alat yang tepat untuk merawat tanaman saya agar tetap sehat dan cantik.",$$,
+Pengingat penyiraman,Backlog,,“Plant Care Initiatives”/”Inisiatif Perawatan Tanaman”,"Sebagai pemilik tanaman, saya ingin mengingat kapan saya harus menyirami tanaman sehingga saya tidak menyiramnya terlalu sedikit atau terlalu banyak.",$$,
+Bantuan dan saran ahli,Backlog,,“Plant Care Initiatives”/”Inisiatif Perawatan Tanaman”,"Sebagai pemilik tanaman, saya ingin mendapatkan bantuan dan saran dari para ahli tanaman dengan cepat sehingga saya tahu apa yang harus dilakukan jika tanaman saya sakit. ",$,
+Kebijakan Pengembalian,Backlog,,“Plant Care Initiatives”/”Inisiatif Perawatan Tanaman”,"Sebagai pelanggan, saya ingin cara untuk mengembalikan pesanan dengan mudah sehingga saya yakin saya mendapat tanaman yang tepat.",$$,
+Pemilihan Bonsai,Backlog,,“Bonsai Trees”/”Pohon Bonsai”,"Sebagai pelanggan potensial, saya ingin dapat memilih dari berbagai pohon Bonsai yang berbeda sehingga saya dapat mengambil jenis yang saya inginkan.",$$$,13
+Pengiriman Bonsai,Backlog,,“Bonsai Trees”/”Pohon Bonsai”,"Sebagai pelanggan, saya ingin tahu bahwa pohon saya akan dikirim dengan aman sehingga tiba dalam kondisi baik.",$,5
+Gaya Bonsai,Backlog,,“Bonsai Trees”/”Pohon Bonsai”,"Sebagai pemilik pohon Bonsai baru, saya ingin mempelajari berbagai gaya Bonsai sehingga saya dapat memutuskan gaya yang tepat untuk pohon saya.",$$,8
+Peralatan Bonsai,Backlog,,“Bonsai Trees”/”Pohon Bonsai”,"Sebagai pemilik pohon Bonsai, saya ingin memiliki peralatan yang tepat untuk merawat pohon sehingga saya dapat membentuk dan menatanya dengan benar.",$$,13
+Sejarah Bonsai,Backlog,,“Bonsai Trees”/”Pohon Bonsai”,"Sebagai pemilik pohon Bonsai, saya ingin mempelajari sejarah dan tradisi Bonsai sehingga saya dapat lebih menghargai pohon saya.",$$,13
+Teknik Bonsai,Backlog,,“Bonsai Trees”/”Pohon Bonsai”,"Sebagai pemilik pohon Bonsai, saya ingin mempelajari cara membentuk dan menata pohon sehingga saya dapat mengendalikan pertumbuhannya.",$$$,21
+"Kemampuan untuk menyortir tanaman berdasarkan kategori ""pemula"", ""menengah"", dan ""lanjut"" ",,Opsi pemeliharaan minimum,,,,
+Kemampuan untuk mencari tanaman dengan kebutuhan perawatan serupa,,Opsi pemeliharaan minimum,,,,
+Menerima selebaran perawatan tanaman di setiap pesanan,,Kiat-kiat perawatan tanaman,,,,
+Opsi untuk mendaftarkan diri ke email bulanan yang berisikan kiat-kiat perawatan musiman,,Kiat-kiat perawatan tanaman,,,,
+Dapat membeli paket perawatan tanaman untuk pemula ,,Peralatan untuk merawat tanaman,,,,
+Opsi untuk membeli paket parsial atau alat tunggal,,Peralatan untuk merawat tanaman,,,,
+Opsi untuk mendaftarkan diri ke teks pengingat atau email,,Pengingat penyiraman,,,,
+Opsi untuk menambahkan stiker pengingat yang digunakan di kalender untuk setiap pesanan,,Pengingat penyiraman,,,,
+Akses ke dukungan live chat (obrolan langsung) ,,Bantuan dan saran ahli,,,,
+Jam dukungan telepon yang lebih lama,,Bantuan dan saran ahli,,,,
+FAQ pembayaran dan pengembalian yang ditautkan di beranda,,Kebijakan Pengembalian,,,,
+Menerima label dan instruksi pengembalian dengan setiap pengiriman,,Kebijakan Pengembalian,,,,
+Kemampuan untuk memilih dari beberapa spesies pohon ,,Pemilihan Bonsai,,,,
+"Opsi untuk mengurutkan tanaman berdasarkan spesies, ukuran, dan persyaratan perawatan",,Pemilihan Bonsai,,,,
+"Pelanggan dapat mengakses panduan untuk gaya-gaya yang berbeda (tegak formal & informal, sapu, kaskade, dll.) di situs web",,Gaya Bonsai,,,,
+Pelanggan dapat mengisi kuis untuk mencocokkan pohon mereka dengan gaya yang sesuai,,Gaya Bonsai,,,,
+"Opsi untuk membeli paket pemula Bonsai (gunting, kawat, jaring, pupuk, dll.) tersedia untuk dibeli",,Peralatan Bonsai,,,,
+"Pelanggan dapat mengambil pilihan dari jenis peralatan premium (pisau okulasi, alat ukir, kait, dll.)",,Peralatan Bonsai,,,,
+Dapat membeli buklet tentang sejarah Bonsai di Jepang,,Sejarah Bonsai,,,,
+Dapat membeli buklet Bonsai dan desain Jepang,,Sejarah Bonsai,,,,
+"Dapat mendaftarkan diri untuk mengikuti pelajaran online ""Dasar-dasar Bonsai""",,Teknik Bonsai,,,,
+Dapat mendaftarkan diri untuk mengikuti pelatihan gaya tingkat menengah,,Teknik Bonsai,,,,
+Dapat mendaftarkan diri untuk mengikuti pelatihan teknik tingkat lanjut,,Teknik Bonsai,,,,
+Dapat meninjau diagram yang menjelaskan proses pengemasan dan pengiriman saat checkout (proses pembayaran),,Pengiriman Bonsai,,,,
+Tanda tangan diperlukan ketika pengiriman Bonsai diterima,,Pengiriman Bonsai,,,,
+,Diprioritaskan,,,,,
+,Desain / Spesifikasi dalam proses,,,,,
+,Mengembangkan,,,,,
+,Selesai,,,,,

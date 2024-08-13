@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Jakarta
+X-LIC-LOCATION:Asia/Jakarta
+BEGIN:STANDARD
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:WIB
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Jakarta:20240506T153000
+DTEND;TZID=Asia/Jakarta:20240506T170000
+DTSTAMP:20240429T093549Z
+ORGANIZER;CN=Tressa Agista Bella:mailto:tressa@dicoding.com
+UID:1ofi9upc794ehl05onsqva0lku@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ogisetiawan21@gmail.com;X-NUM-GUESTS=0:mailto:ogisetiawan21@gmail.c
+ om
+X-MICROSOFT-CDO-OWNERAPPTID:-1223254822
+CREATED:20240429T091503Z
+DESCRIPTION:Hi teman-teman\, agenda selanjutnya adalah Onboarding Peserta u
+ ntuk PROA di program GCC x DTS 2024. <br><br>Teman-teman wajib untuk hadir 
+ karena di sesi ini akan membahas seputar program GCC x DTS\, melalui link z
+ oom dibawah ini:<br><a href="goog_1755575777"><br></a><br><a href="https://
+ dicoding.zoom.us/j/87423692914?pwd=VYYPYEac06OXoxeyNJRfA5rNrDzq0w.1">Link Z
+ oom</a><br><a href="https://drive.google.com/file/d/15nOk7RIHIrVJ-ueZLJk8j7
+ x_CqhZxXzE/view?pli=1">Link Virtual Background</a><br><br>Terima kasih.
+LAST-MODIFIED:20240429T093512Z
+LOCATION:https://dicoding.zoom.us/j/87423692914?pwd=VYYPYEac06OXoxeyNJRfA5r
+ NrDzq0w.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Onboarding Peserta GCC x DTS for PROA 2024
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
